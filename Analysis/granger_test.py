@@ -39,4 +39,4 @@ granger_results = pd.concat(
     axis=1
 )
 
-granger_results.to_csv("Dataset/granger_results_selected.csv")
+granger_results.to_csv("analysis_outputs/granger_results_selected.csv")

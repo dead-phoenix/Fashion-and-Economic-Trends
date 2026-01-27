@@ -163,26 +163,17 @@ Together, these results support the conclusion that fashion trends are not merel
 
 ## Limitations
 
-Google Trends data reflects relative search interest, not actual sales.
-
-Retail sales data contains structural gaps in early years.
-
-Correlation and Granger causality do not imply true causal mechanisms.
+* Google Trends data reflects relative search interest, not actual sales.
+* Retail sales data contains structural gaps in early years.
+* Correlation and Granger causality do not imply true causal mechanisms.
 
 ## Future Work
 
-Incorporate social media data (Instagram, TikTok)
-
-Compare results across countries
-
-Segment fashion categories by price tiers
-
-Apply structural break tests for major economic events
+* Incorporate social media data (Instagram, TikTok)
+* Compare results across countries
+* Segment fashion categories by price tiers
+* Apply structural break tests for major economic events
 
 ## Author
 
 Tanisha Thapa
-
-Master’s in Business Analytics
-
-Australia

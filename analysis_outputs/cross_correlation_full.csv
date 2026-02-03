@@ -1,0 +1,1765 @@
+Economic_Variable,Fashion_Trend,Lag_Months,Cross_Correlation
+Unemployment Rate (%),luxury,0,-0.41800869197350815
+Unemployment Rate (%),luxury,1,-0.45150074841069976
+Unemployment Rate (%),luxury,2,-0.468585404428028
+Unemployment Rate (%),luxury,3,-0.4522192668008235
+Unemployment Rate (%),luxury,4,-0.42228323404815715
+Unemployment Rate (%),luxury,5,-0.40424082859460325
+Unemployment Rate (%),luxury,6,-0.3930999117746259
+Unemployment Rate (%),luxury,7,-0.38873861254957237
+Unemployment Rate (%),luxury,8,-0.3812416959784728
+Unemployment Rate (%),luxury,9,-0.35842528836570386
+Unemployment Rate (%),luxury,10,-0.33876547254451783
+Unemployment Rate (%),luxury,11,-0.32837199342912765
+Unemployment Rate (%),luxury,12,-0.3180884268123754
+Unemployment Rate (%),luxury,13,-0.32611578520520795
+Unemployment Rate (%),luxury,14,-0.3235861438598036
+Unemployment Rate (%),luxury,15,-0.31384828607262194
+Unemployment Rate (%),luxury,16,-0.3134365042594034
+Unemployment Rate (%),luxury,17,-0.32894739823692337
+Unemployment Rate (%),luxury,18,-0.35042358469886326
+Unemployment Rate (%),luxury,19,-0.3650063018100824
+Unemployment Rate (%),luxury,20,-0.35897676573228376
+Unemployment Rate (%),luxury,21,-0.3506841639676484
+Unemployment Rate (%),luxury,22,-0.3651808804471119
+Unemployment Rate (%),luxury,23,-0.3779754412132219
+Unemployment Rate (%),luxury,24,-0.38369901222704567
+Unemployment Rate (%),luxury,25,-0.4043968184121897
+Unemployment Rate (%),luxury,26,-0.4076075344542482
+Unemployment Rate (%),luxury,27,-0.40527048545538935
+Unemployment Rate (%),luxury,28,-0.42135551909225866
+Unemployment Rate (%),luxury,29,-0.43638010348436757
+Unemployment Rate (%),luxury,30,-0.45093636362447237
+Unemployment Rate (%),luxury,31,-0.47223898514825147
+Unemployment Rate (%),luxury,32,-0.47308956921630674
+Unemployment Rate (%),luxury,33,-0.47042887640540226
+Unemployment Rate (%),luxury,34,-0.47926170634725296
+Unemployment Rate (%),luxury,35,-0.4908018938468088
+Unemployment Rate (%),luxury,36,-0.5000274728216942
+Unemployment Rate (%),luxury,37,-0.527234202788471
+Unemployment Rate (%),luxury,38,-0.5252910122278015
+Unemployment Rate (%),luxury,39,-0.530307959387312
+Unemployment Rate (%),luxury,40,-0.5487653078055571
+Unemployment Rate (%),luxury,41,-0.56645302889154
+Unemployment Rate (%),luxury,42,-0.5760887723072081
+Unemployment Rate (%),luxury,43,-0.591400313740052
+Unemployment Rate (%),luxury,44,-0.5951412020140203
+Unemployment Rate (%),luxury,45,-0.5831197853427718
+Unemployment Rate (%),luxury,46,-0.5792029028578219
+Unemployment Rate (%),luxury,47,-0.581282800086255
+Unemployment Rate (%),luxury,48,-0.5762207625076717
+Unemployment Rate (%),quiet_luxury,0,-0.5497560751363971
+Unemployment Rate (%),quiet_luxury,1,-0.5325306626465285
+Unemployment Rate (%),quiet_luxury,2,-0.5178983392878062
+Unemployment Rate (%),quiet_luxury,3,-0.48971744339957407
+Unemployment Rate (%),quiet_luxury,4,-0.4668583959266904
+Unemployment Rate (%),quiet_luxury,5,-0.45396273741371934
+Unemployment Rate (%),quiet_luxury,6,-0.4287261274435654
+Unemployment Rate (%),quiet_luxury,7,-0.40969640227576426
+Unemployment Rate (%),quiet_luxury,8,-0.3908968120096677
+Unemployment Rate (%),quiet_luxury,9,-0.3683040719398554
+Unemployment Rate (%),quiet_luxury,10,-0.34840346405239925
+Unemployment Rate (%),quiet_luxury,11,-0.32781850831228815
+Unemployment Rate (%),quiet_luxury,12,-0.30597140303806114
+Unemployment Rate (%),quiet_luxury,13,-0.2894809564487552
+Unemployment Rate (%),quiet_luxury,14,-0.27695345856717757
+Unemployment Rate (%),quiet_luxury,15,-0.25536042337868975
+Unemployment Rate (%),quiet_luxury,16,-0.24132695568281926
+Unemployment Rate (%),quiet_luxury,17,-0.226892063350241
+Unemployment Rate (%),quiet_luxury,18,-0.2065341523817274
+Unemployment Rate (%),quiet_luxury,19,-0.18898628244230561
+Unemployment Rate (%),quiet_luxury,20,-0.1471580312571315
+Unemployment Rate (%),quiet_luxury,21,-0.04965245538681057
+Unemployment Rate (%),quiet_luxury,22,0.03575095701240271
+Unemployment Rate (%),quiet_luxury,23,0.06244803024404907
+Unemployment Rate (%),quiet_luxury,24,0.06502253438055787
+Unemployment Rate (%),quiet_luxury,25,0.03508978315785262
+Unemployment Rate (%),quiet_luxury,26,0.02875669563040121
+Unemployment Rate (%),quiet_luxury,27,0.0291019448698773
+Unemployment Rate (%),quiet_luxury,28,0.024531743547111722
+Unemployment Rate (%),quiet_luxury,29,0.0010896619923892522
+Unemployment Rate (%),quiet_luxury,30,-0.02476121534619721
+Unemployment Rate (%),quiet_luxury,31,-0.046250110788237056
+Unemployment Rate (%),quiet_luxury,32,-0.04949183049690058
+Unemployment Rate (%),quiet_luxury,33,-0.06713459134643934
+Unemployment Rate (%),quiet_luxury,34,-0.08237921521464812
+Unemployment Rate (%),quiet_luxury,35,-0.08648678016045588
+Unemployment Rate (%),quiet_luxury,36,-0.09549272208852325
+Unemployment Rate (%),quiet_luxury,37,-0.08639126478745761
+Unemployment Rate (%),quiet_luxury,38,-0.09851876427571071
+Unemployment Rate (%),quiet_luxury,39,-0.0584306575605274
+Unemployment Rate (%),quiet_luxury,40,-0.08010926849360987
+Unemployment Rate (%),quiet_luxury,41,-0.1037788204110577
+Unemployment Rate (%),quiet_luxury,42,-0.10405064235712114
+Unemployment Rate (%),quiet_luxury,43,-0.1051078764935442
+Unemployment Rate (%),quiet_luxury,44,-0.11202933149120495
+Unemployment Rate (%),quiet_luxury,45,-0.1299806389934275
+Unemployment Rate (%),quiet_luxury,46,-0.11625957193771776
+Unemployment Rate (%),quiet_luxury,47,-0.15211873055836814
+Unemployment Rate (%),quiet_luxury,48,-0.14744807498989698
+Unemployment Rate (%),minimalist_fashion,0,0.049347154704516887
+Unemployment Rate (%),minimalist_fashion,1,0.06025346336481599
+Unemployment Rate (%),minimalist_fashion,2,0.02938654634343736
+Unemployment Rate (%),minimalist_fashion,3,0.021638665237134935
+Unemployment Rate (%),minimalist_fashion,4,0.01572075091148375
+Unemployment Rate (%),minimalist_fashion,5,-0.0016515918339304436
+Unemployment Rate (%),minimalist_fashion,6,-0.019415195957982082
+Unemployment Rate (%),minimalist_fashion,7,-0.03658679200932116
+Unemployment Rate (%),minimalist_fashion,8,-0.03288538084945553
+Unemployment Rate (%),minimalist_fashion,9,-0.041713113177759845
+Unemployment Rate (%),minimalist_fashion,10,-0.03533117953420142
+Unemployment Rate (%),minimalist_fashion,11,-0.04407808046510652
+Unemployment Rate (%),minimalist_fashion,12,-0.03966426644252948
+Unemployment Rate (%),minimalist_fashion,13,-0.04806152996562327
+Unemployment Rate (%),minimalist_fashion,14,-0.06379030747280609
+Unemployment Rate (%),minimalist_fashion,15,-0.06011670144254103
+Unemployment Rate (%),minimalist_fashion,16,-0.06747939907341678
+Unemployment Rate (%),minimalist_fashion,17,-0.07558820392050501
+Unemployment Rate (%),minimalist_fashion,18,-0.07309384590573503
+Unemployment Rate (%),minimalist_fashion,19,-0.059905301504347294
+Unemployment Rate (%),minimalist_fashion,20,-0.06562767111462713
+Unemployment Rate (%),minimalist_fashion,21,-0.036998778769724905
+Unemployment Rate (%),minimalist_fashion,22,-0.049772251775334925
+Unemployment Rate (%),minimalist_fashion,23,-0.03959028007931271
+Unemployment Rate (%),minimalist_fashion,24,-0.0365631817067272
+Unemployment Rate (%),minimalist_fashion,25,-0.03297411840584378
+Unemployment Rate (%),minimalist_fashion,26,-0.008725335683610367
+Unemployment Rate (%),minimalist_fashion,27,-0.003856305660152946
+Unemployment Rate (%),minimalist_fashion,28,0.005556374850716881
+Unemployment Rate (%),minimalist_fashion,29,-0.016760911114671456
+Unemployment Rate (%),minimalist_fashion,30,0.008746162210342778
+Unemployment Rate (%),minimalist_fashion,31,0.024138415935381997
+Unemployment Rate (%),minimalist_fashion,32,0.0014117099775570537
+Unemployment Rate (%),minimalist_fashion,33,-0.003610581611789273
+Unemployment Rate (%),minimalist_fashion,34,0.009361787835179585
+Unemployment Rate (%),minimalist_fashion,35,0.023955677436931146
+Unemployment Rate (%),minimalist_fashion,36,0.05858124793560715
+Unemployment Rate (%),minimalist_fashion,37,0.052205027838009795
+Unemployment Rate (%),minimalist_fashion,38,0.03823824716496418
+Unemployment Rate (%),minimalist_fashion,39,0.05048326776050474
+Unemployment Rate (%),minimalist_fashion,40,0.052676873294559334
+Unemployment Rate (%),minimalist_fashion,41,0.05469912698795406
+Unemployment Rate (%),minimalist_fashion,42,0.05190635116037493
+Unemployment Rate (%),minimalist_fashion,43,0.062036085901656844
+Unemployment Rate (%),minimalist_fashion,44,0.018918878583394895
+Unemployment Rate (%),minimalist_fashion,45,-0.012107724255327877
+Unemployment Rate (%),minimalist_fashion,46,-0.023301483461341418
+Unemployment Rate (%),minimalist_fashion,47,-0.020355173921598784
+Unemployment Rate (%),minimalist_fashion,48,-0.012963965189145317
+Unemployment Rate (%),timeless_basics,0,0.025779257073473262
+Unemployment Rate (%),timeless_basics,1,0.03451757799539452
+Unemployment Rate (%),timeless_basics,2,0.03456681376196119
+Unemployment Rate (%),timeless_basics,3,0.02597763290144811
+Unemployment Rate (%),timeless_basics,4,0.02613447454860284
+Unemployment Rate (%),timeless_basics,5,0.017440017944815804
+Unemployment Rate (%),timeless_basics,6,0.026086902673593756
+Unemployment Rate (%),timeless_basics,7,0.03483469963958692
+Unemployment Rate (%),timeless_basics,8,0.026042122435892504
+Unemployment Rate (%),timeless_basics,9,0.03469044761526713
+Unemployment Rate (%),timeless_basics,10,0.02604438227613545
+Unemployment Rate (%),timeless_basics,11,0.026019051665641512
+Unemployment Rate (%),timeless_basics,12,0.01719479307805126
+Unemployment Rate (%),timeless_basics,13,0.008389820839939511
+Unemployment Rate (%),timeless_basics,14,0.008284538824934075
+Unemployment Rate (%),timeless_basics,15,-0.0005804822761389015
+Unemployment Rate (%),timeless_basics,16,-0.01810794452497106
+Unemployment Rate (%),timeless_basics,17,-0.01822236686213783
+Unemployment Rate (%),timeless_basics,18,-0.009681916798444188
+Unemployment Rate (%),timeless_basics,19,-0.018456999152358988
+Unemployment Rate (%),timeless_basics,20,-0.01840986557404116
+Unemployment Rate (%),timeless_basics,21,-0.022773857652805218
+Unemployment Rate (%),timeless_basics,22,-0.01406548465988776
+Unemployment Rate (%),timeless_basics,23,-0.0009992024366580676
+Unemployment Rate (%),timeless_basics,24,-0.0010056287440375795
+Unemployment Rate (%),timeless_basics,25,0.003233767401869942
+Unemployment Rate (%),timeless_basics,26,0.003226533645497431
+Unemployment Rate (%),timeless_basics,27,0.007577951619330473
+Unemployment Rate (%),timeless_basics,28,-0.0012619874656697888
+Unemployment Rate (%),timeless_basics,29,0.007449010409574278
+Unemployment Rate (%),timeless_basics,30,-0.0012788724790571862
+Unemployment Rate (%),timeless_basics,31,-0.01436716846509323
+Unemployment Rate (%),timeless_basics,32,0.0030050110829347833
+Unemployment Rate (%),timeless_basics,33,-0.009910155378369563
+Unemployment Rate (%),timeless_basics,34,-0.0010756440543005057
+Unemployment Rate (%),timeless_basics,35,0.09059093095397969
+Unemployment Rate (%),timeless_basics,36,0.16053159105212497
+Unemployment Rate (%),timeless_basics,37,0.19122094622087438
+Unemployment Rate (%),timeless_basics,38,0.20009895451736737
+Unemployment Rate (%),timeless_basics,39,0.1393215130284349
+Unemployment Rate (%),timeless_basics,40,0.14839482481631727
+Unemployment Rate (%),timeless_basics,41,0.1574844311542891
+Unemployment Rate (%),timeless_basics,42,0.14044889423735202
+Unemployment Rate (%),timeless_basics,43,0.11889928275516874
+Unemployment Rate (%),timeless_basics,44,0.10191754965700914
+Unemployment Rate (%),timeless_basics,45,0.054056520417811414
+Unemployment Rate (%),timeless_basics,46,0.04134891640852875
+Unemployment Rate (%),timeless_basics,47,0.028610120265444332
+Unemployment Rate (%),timeless_basics,48,-0.0061517803513558116
+Unemployment Rate (%),capsule_wardrobe,0,-0.5112083173708442
+Unemployment Rate (%),capsule_wardrobe,1,-0.5220972317050986
+Unemployment Rate (%),capsule_wardrobe,2,-0.5220208190032507
+Unemployment Rate (%),capsule_wardrobe,3,-0.5138697384919092
+Unemployment Rate (%),capsule_wardrobe,4,-0.5050896091679312
+Unemployment Rate (%),capsule_wardrobe,5,-0.49928897827472324
+Unemployment Rate (%),capsule_wardrobe,6,-0.4890841554495842
+Unemployment Rate (%),capsule_wardrobe,7,-0.485428855303789
+Unemployment Rate (%),capsule_wardrobe,8,-0.4753713578977528
+Unemployment Rate (%),capsule_wardrobe,9,-0.4626256606241041
+Unemployment Rate (%),capsule_wardrobe,10,-0.4571219237733425
+Unemployment Rate (%),capsule_wardrobe,11,-0.45018185010147904
+Unemployment Rate (%),capsule_wardrobe,12,-0.4337738204868464
+Unemployment Rate (%),capsule_wardrobe,13,-0.4271073633839485
+Unemployment Rate (%),capsule_wardrobe,14,-0.4240077424718469
+Unemployment Rate (%),capsule_wardrobe,15,-0.4190953505130268
+Unemployment Rate (%),capsule_wardrobe,16,-0.41800254033749795
+Unemployment Rate (%),capsule_wardrobe,17,-0.41731737583174555
+Unemployment Rate (%),capsule_wardrobe,18,-0.4163084139422875
+Unemployment Rate (%),capsule_wardrobe,19,-0.41479733688806714
+Unemployment Rate (%),capsule_wardrobe,20,-0.40292373822598937
+Unemployment Rate (%),capsule_wardrobe,21,-0.39291053738985565
+Unemployment Rate (%),capsule_wardrobe,22,-0.3923161093676895
+Unemployment Rate (%),capsule_wardrobe,23,-0.39593725738690333
+Unemployment Rate (%),capsule_wardrobe,24,-0.3830691600765647
+Unemployment Rate (%),capsule_wardrobe,25,-0.38887505187043825
+Unemployment Rate (%),capsule_wardrobe,26,-0.3893492686126251
+Unemployment Rate (%),capsule_wardrobe,27,-0.3926274031872036
+Unemployment Rate (%),capsule_wardrobe,28,-0.4046238913835863
+Unemployment Rate (%),capsule_wardrobe,29,-0.4244113862345483
+Unemployment Rate (%),capsule_wardrobe,30,-0.4279328563761377
+Unemployment Rate (%),capsule_wardrobe,31,-0.44013380985084705
+Unemployment Rate (%),capsule_wardrobe,32,-0.45619987144645835
+Unemployment Rate (%),capsule_wardrobe,33,-0.4614436738879989
+Unemployment Rate (%),capsule_wardrobe,34,-0.4640508648661027
+Unemployment Rate (%),capsule_wardrobe,35,-0.4653579324254005
+Unemployment Rate (%),capsule_wardrobe,36,-0.4509246094706706
+Unemployment Rate (%),capsule_wardrobe,37,-0.45497268001931657
+Unemployment Rate (%),capsule_wardrobe,38,-0.4577007174748157
+Unemployment Rate (%),capsule_wardrobe,39,-0.462327273616955
+Unemployment Rate (%),capsule_wardrobe,40,-0.4750747223390346
+Unemployment Rate (%),capsule_wardrobe,41,-0.4917635757182973
+Unemployment Rate (%),capsule_wardrobe,42,-0.498544621152461
+Unemployment Rate (%),capsule_wardrobe,43,-0.5163019337043688
+Unemployment Rate (%),capsule_wardrobe,44,-0.5380000115429131
+Unemployment Rate (%),capsule_wardrobe,45,-0.5465704295069264
+Unemployment Rate (%),capsule_wardrobe,46,-0.548717963427765
+Unemployment Rate (%),capsule_wardrobe,47,-0.5547817764436849
+Unemployment Rate (%),capsule_wardrobe,48,-0.5518652171571252
+Unemployment Rate (%),thrift_store,0,-0.514320368741141
+Unemployment Rate (%),thrift_store,1,-0.526715443170039
+Unemployment Rate (%),thrift_store,2,-0.5307084424275911
+Unemployment Rate (%),thrift_store,3,-0.5116907337842095
+Unemployment Rate (%),thrift_store,4,-0.4962757877573014
+Unemployment Rate (%),thrift_store,5,-0.49370705311570884
+Unemployment Rate (%),thrift_store,6,-0.4892348054942793
+Unemployment Rate (%),thrift_store,7,-0.49472958420752006
+Unemployment Rate (%),thrift_store,8,-0.4974463830588985
+Unemployment Rate (%),thrift_store,9,-0.48502312054214164
+Unemployment Rate (%),thrift_store,10,-0.48358139019245744
+Unemployment Rate (%),thrift_store,11,-0.48643367952910727
+Unemployment Rate (%),thrift_store,12,-0.48148808746253974
+Unemployment Rate (%),thrift_store,13,-0.49002344227282296
+Unemployment Rate (%),thrift_store,14,-0.48965126899947875
+Unemployment Rate (%),thrift_store,15,-0.4819171359138695
+Unemployment Rate (%),thrift_store,16,-0.487739989008408
+Unemployment Rate (%),thrift_store,17,-0.5067454451259266
+Unemployment Rate (%),thrift_store,18,-0.5167049232525098
+Unemployment Rate (%),thrift_store,19,-0.5114707901958276
+Unemployment Rate (%),thrift_store,20,-0.5049368027522374
+Unemployment Rate (%),thrift_store,21,-0.495759441698124
+Unemployment Rate (%),thrift_store,22,-0.5044334856729771
+Unemployment Rate (%),thrift_store,23,-0.5136621652654788
+Unemployment Rate (%),thrift_store,24,-0.5171172576547781
+Unemployment Rate (%),thrift_store,25,-0.5254500474586778
+Unemployment Rate (%),thrift_store,26,-0.5277576129575946
+Unemployment Rate (%),thrift_store,27,-0.5302190533659065
+Unemployment Rate (%),thrift_store,28,-0.544813276766005
+Unemployment Rate (%),thrift_store,29,-0.5539097464316076
+Unemployment Rate (%),thrift_store,30,-0.5495648589101206
+Unemployment Rate (%),thrift_store,31,-0.5455415025515518
+Unemployment Rate (%),thrift_store,32,-0.5546824836568566
+Unemployment Rate (%),thrift_store,33,-0.5544688783237949
+Unemployment Rate (%),thrift_store,34,-0.5658996289499291
+Unemployment Rate (%),thrift_store,35,-0.5781389344584474
+Unemployment Rate (%),thrift_store,36,-0.575891818055466
+Unemployment Rate (%),thrift_store,37,-0.5789415548575745
+Unemployment Rate (%),thrift_store,38,-0.5874464972012746
+Unemployment Rate (%),thrift_store,39,-0.5944578685472464
+Unemployment Rate (%),thrift_store,40,-0.6031121536504076
+Unemployment Rate (%),thrift_store,41,-0.6130041677701225
+Unemployment Rate (%),thrift_store,42,-0.618152873029842
+Unemployment Rate (%),thrift_store,43,-0.6246266050405364
+Unemployment Rate (%),thrift_store,44,-0.6388884346645326
+Unemployment Rate (%),thrift_store,45,-0.6341391737324517
+Unemployment Rate (%),thrift_store,46,-0.6286637041294058
+Unemployment Rate (%),thrift_store,47,-0.6233174142516579
+Unemployment Rate (%),thrift_store,48,-0.6132598529091139
+Unemployment Rate (%),second_hand_clothing,0,-0.010991889758050743
+Unemployment Rate (%),second_hand_clothing,1,-0.026810025587745492
+Unemployment Rate (%),second_hand_clothing,2,-0.02195899970823408
+Unemployment Rate (%),second_hand_clothing,3,0.019213328277588395
+Unemployment Rate (%),second_hand_clothing,4,0.041449391203759935
+Unemployment Rate (%),second_hand_clothing,5,0.06849962037162954
+Unemployment Rate (%),second_hand_clothing,6,0.10418909942288002
+Unemployment Rate (%),second_hand_clothing,7,0.10924182165727453
+Unemployment Rate (%),second_hand_clothing,8,0.13521378495976652
+Unemployment Rate (%),second_hand_clothing,9,0.1723047096298257
+Unemployment Rate (%),second_hand_clothing,10,0.17075836117676924
+Unemployment Rate (%),second_hand_clothing,11,0.19091436496580086
+Unemployment Rate (%),second_hand_clothing,12,0.2201302586664544
+Unemployment Rate (%),second_hand_clothing,13,0.21926412430727577
+Unemployment Rate (%),second_hand_clothing,14,0.23353612561834844
+Unemployment Rate (%),second_hand_clothing,15,0.24922389829958053
+Unemployment Rate (%),second_hand_clothing,16,0.2544483055291856
+Unemployment Rate (%),second_hand_clothing,17,0.22609009452189388
+Unemployment Rate (%),second_hand_clothing,18,0.2303017721266005
+Unemployment Rate (%),second_hand_clothing,19,0.21521103343984552
+Unemployment Rate (%),second_hand_clothing,20,0.24424368944157765
+Unemployment Rate (%),second_hand_clothing,21,0.2697459035968587
+Unemployment Rate (%),second_hand_clothing,22,0.284623822485647
+Unemployment Rate (%),second_hand_clothing,23,0.3185143611171775
+Unemployment Rate (%),second_hand_clothing,24,0.3398977271515302
+Unemployment Rate (%),second_hand_clothing,25,0.3354533464184609
+Unemployment Rate (%),second_hand_clothing,26,0.3587181047970619
+Unemployment Rate (%),second_hand_clothing,27,0.37956398381317774
+Unemployment Rate (%),second_hand_clothing,28,0.334888900388636
+Unemployment Rate (%),second_hand_clothing,29,0.3307916359505224
+Unemployment Rate (%),second_hand_clothing,30,0.3198094471562924
+Unemployment Rate (%),second_hand_clothing,31,0.32503075478945515
+Unemployment Rate (%),second_hand_clothing,32,0.31058113742437005
+Unemployment Rate (%),second_hand_clothing,33,0.3178059464304998
+Unemployment Rate (%),second_hand_clothing,34,0.2965050343404029
+Unemployment Rate (%),second_hand_clothing,35,0.2995952641572674
+Unemployment Rate (%),second_hand_clothing,36,0.31745725732643065
+Unemployment Rate (%),second_hand_clothing,37,0.30217655061007015
+Unemployment Rate (%),second_hand_clothing,38,0.3044571962466471
+Unemployment Rate (%),second_hand_clothing,39,0.3000728404381054
+Unemployment Rate (%),second_hand_clothing,40,0.2958642125336973
+Unemployment Rate (%),second_hand_clothing,41,0.25677552465305614
+Unemployment Rate (%),second_hand_clothing,42,0.23997565357826656
+Unemployment Rate (%),second_hand_clothing,43,0.1814895615201464
+Unemployment Rate (%),second_hand_clothing,44,0.15710328146971514
+Unemployment Rate (%),second_hand_clothing,45,0.13911641806375533
+Unemployment Rate (%),second_hand_clothing,46,0.11136083852884232
+Unemployment Rate (%),second_hand_clothing,47,0.07609388307468182
+Unemployment Rate (%),second_hand_clothing,48,0.06806025979237766
+Unemployment Rate (%),vintage_clothing,0,0.3245356952872119
+Unemployment Rate (%),vintage_clothing,1,0.32025590109951113
+Unemployment Rate (%),vintage_clothing,2,0.3180826250886464
+Unemployment Rate (%),vintage_clothing,3,0.3100938336759796
+Unemployment Rate (%),vintage_clothing,4,0.298563878916395
+Unemployment Rate (%),vintage_clothing,5,0.2950994478591237
+Unemployment Rate (%),vintage_clothing,6,0.2788714234729533
+Unemployment Rate (%),vintage_clothing,7,0.26263346437397134
+Unemployment Rate (%),vintage_clothing,8,0.25287593859832885
+Unemployment Rate (%),vintage_clothing,9,0.24554446349918604
+Unemployment Rate (%),vintage_clothing,10,0.23781253642926897
+Unemployment Rate (%),vintage_clothing,11,0.2315716942585959
+Unemployment Rate (%),vintage_clothing,12,0.23141064309609263
+Unemployment Rate (%),vintage_clothing,13,0.2346227403521211
+Unemployment Rate (%),vintage_clothing,14,0.23773949072612677
+Unemployment Rate (%),vintage_clothing,15,0.24086757779827048
+Unemployment Rate (%),vintage_clothing,16,0.23985370383432147
+Unemployment Rate (%),vintage_clothing,17,0.23778961855793498
+Unemployment Rate (%),vintage_clothing,18,0.23048937243919743
+Unemployment Rate (%),vintage_clothing,19,0.22736113279730036
+Unemployment Rate (%),vintage_clothing,20,0.23254534340335892
+Unemployment Rate (%),vintage_clothing,21,0.2473615193765357
+Unemployment Rate (%),vintage_clothing,22,0.2597805312844961
+Unemployment Rate (%),vintage_clothing,23,0.2636654276776534
+Unemployment Rate (%),vintage_clothing,24,0.27582370902892206
+Unemployment Rate (%),vintage_clothing,25,0.2848089364487031
+Unemployment Rate (%),vintage_clothing,26,0.29477203779069217
+Unemployment Rate (%),vintage_clothing,27,0.31791903130952737
+Unemployment Rate (%),vintage_clothing,28,0.3278603327962164
+Unemployment Rate (%),vintage_clothing,29,0.3336623056328878
+Unemployment Rate (%),vintage_clothing,30,0.3511073395242843
+Unemployment Rate (%),vintage_clothing,31,0.3583468140019308
+Unemployment Rate (%),vintage_clothing,32,0.36305452823557266
+Unemployment Rate (%),vintage_clothing,33,0.3896604324380063
+Unemployment Rate (%),vintage_clothing,34,0.40478081864440685
+Unemployment Rate (%),vintage_clothing,35,0.42892948962851524
+Unemployment Rate (%),vintage_clothing,36,0.4570637633440883
+Unemployment Rate (%),vintage_clothing,37,0.46979474751199324
+Unemployment Rate (%),vintage_clothing,38,0.48131907363105925
+Unemployment Rate (%),vintage_clothing,39,0.5009959869363487
+Unemployment Rate (%),vintage_clothing,40,0.4935190234380295
+Unemployment Rate (%),vintage_clothing,41,0.4989951923937635
+Unemployment Rate (%),vintage_clothing,42,0.5005316295870164
+Unemployment Rate (%),vintage_clothing,43,0.49133788760441044
+Unemployment Rate (%),vintage_clothing,44,0.4856019821968647
+Unemployment Rate (%),vintage_clothing,45,0.48341455190540905
+Unemployment Rate (%),vintage_clothing,46,0.4689925779118209
+Unemployment Rate (%),vintage_clothing,47,0.47183369615343995
+Unemployment Rate (%),vintage_clothing,48,0.4766526037442163
+Unemployment Rate (%),short_skirts,0,0.3701946077501798
+Unemployment Rate (%),short_skirts,1,0.378015144514159
+Unemployment Rate (%),short_skirts,2,0.3712508841626053
+Unemployment Rate (%),short_skirts,3,0.38333642784919547
+Unemployment Rate (%),short_skirts,4,0.3913864857548864
+Unemployment Rate (%),short_skirts,5,0.39835748799702525
+Unemployment Rate (%),short_skirts,6,0.40762421390312925
+Unemployment Rate (%),short_skirts,7,0.4208745051021971
+Unemployment Rate (%),short_skirts,8,0.43116803601902604
+Unemployment Rate (%),short_skirts,9,0.4368597406242283
+Unemployment Rate (%),short_skirts,10,0.4484235411335969
+Unemployment Rate (%),short_skirts,11,0.44910010045114085
+Unemployment Rate (%),short_skirts,12,0.46499783169439385
+Unemployment Rate (%),short_skirts,13,0.47990809022108055
+Unemployment Rate (%),short_skirts,14,0.4917553675262478
+Unemployment Rate (%),short_skirts,15,0.5009477368568106
+Unemployment Rate (%),short_skirts,16,0.5109490246082216
+Unemployment Rate (%),short_skirts,17,0.512882926213912
+Unemployment Rate (%),short_skirts,18,0.5371219142975128
+Unemployment Rate (%),short_skirts,19,0.5470537994108032
+Unemployment Rate (%),short_skirts,20,0.5583089780973838
+Unemployment Rate (%),short_skirts,21,0.565941853544232
+Unemployment Rate (%),short_skirts,22,0.5698152725674618
+Unemployment Rate (%),short_skirts,23,0.5770436905406274
+Unemployment Rate (%),short_skirts,24,0.5837058127809736
+Unemployment Rate (%),short_skirts,25,0.593407719946057
+Unemployment Rate (%),short_skirts,26,0.5970437808082075
+Unemployment Rate (%),short_skirts,27,0.6092345732622453
+Unemployment Rate (%),short_skirts,28,0.6100649003595592
+Unemployment Rate (%),short_skirts,29,0.6075370841893847
+Unemployment Rate (%),short_skirts,30,0.6189530412070686
+Unemployment Rate (%),short_skirts,31,0.6191802735917522
+Unemployment Rate (%),short_skirts,32,0.6238068224270181
+Unemployment Rate (%),short_skirts,33,0.6224943402219653
+Unemployment Rate (%),short_skirts,34,0.612239659726738
+Unemployment Rate (%),short_skirts,35,0.6122903929039767
+Unemployment Rate (%),short_skirts,36,0.6176258639349549
+Unemployment Rate (%),short_skirts,37,0.6195429227873708
+Unemployment Rate (%),short_skirts,38,0.6213653595509474
+Unemployment Rate (%),short_skirts,39,0.6197917479399642
+Unemployment Rate (%),short_skirts,40,0.6216414123793909
+Unemployment Rate (%),short_skirts,41,0.6066210716712075
+Unemployment Rate (%),short_skirts,42,0.6099343970169918
+Unemployment Rate (%),short_skirts,43,0.6108591682456399
+Unemployment Rate (%),short_skirts,44,0.6130012090180902
+Unemployment Rate (%),short_skirts,45,0.6123362687023572
+Unemployment Rate (%),short_skirts,46,0.612123981702449
+Unemployment Rate (%),short_skirts,47,0.6119367915962344
+Unemployment Rate (%),short_skirts,48,0.61755544560818
+Unemployment Rate (%),mini_skirts,0,-0.21426428783890342
+Unemployment Rate (%),mini_skirts,1,-0.19432564664329494
+Unemployment Rate (%),mini_skirts,2,-0.17781809088968625
+Unemployment Rate (%),mini_skirts,3,-0.1517006260572569
+Unemployment Rate (%),mini_skirts,4,-0.12327494266804996
+Unemployment Rate (%),mini_skirts,5,-0.11367285472294772
+Unemployment Rate (%),mini_skirts,6,-0.09586711768950237
+Unemployment Rate (%),mini_skirts,7,-0.09416116000384807
+Unemployment Rate (%),mini_skirts,8,-0.1106053075983491
+Unemployment Rate (%),mini_skirts,9,-0.09933147271885309
+Unemployment Rate (%),mini_skirts,10,-0.07947986665894552
+Unemployment Rate (%),mini_skirts,11,-0.06551255526221765
+Unemployment Rate (%),mini_skirts,12,-0.04392613327684103
+Unemployment Rate (%),mini_skirts,13,-0.02486770639247563
+Unemployment Rate (%),mini_skirts,14,-0.01118890990502093
+Unemployment Rate (%),mini_skirts,15,0.012505762449698268
+Unemployment Rate (%),mini_skirts,16,0.025498981344188387
+Unemployment Rate (%),mini_skirts,17,0.022237595071088048
+Unemployment Rate (%),mini_skirts,18,0.025721610897622982
+Unemployment Rate (%),mini_skirts,19,0.042566136570100256
+Unemployment Rate (%),mini_skirts,20,0.05556314771160647
+Unemployment Rate (%),mini_skirts,21,0.032941438993329485
+Unemployment Rate (%),mini_skirts,22,0.027399855030683262
+Unemployment Rate (%),mini_skirts,23,0.020032849653916218
+Unemployment Rate (%),mini_skirts,24,0.01311938099335125
+Unemployment Rate (%),mini_skirts,25,0.022210215028007733
+Unemployment Rate (%),mini_skirts,26,0.05122799109738902
+Unemployment Rate (%),mini_skirts,27,0.07344575584533991
+Unemployment Rate (%),mini_skirts,28,0.10860429420482473
+Unemployment Rate (%),mini_skirts,29,0.12440302892802103
+Unemployment Rate (%),mini_skirts,30,0.1514127957161258
+Unemployment Rate (%),mini_skirts,31,0.1575493828483301
+Unemployment Rate (%),mini_skirts,32,0.1756743852819305
+Unemployment Rate (%),mini_skirts,33,0.18046603314973828
+Unemployment Rate (%),mini_skirts,34,0.1678584565421132
+Unemployment Rate (%),mini_skirts,35,0.17009949957922677
+Unemployment Rate (%),mini_skirts,36,0.15361812154724763
+Unemployment Rate (%),mini_skirts,37,0.15525937772415963
+Unemployment Rate (%),mini_skirts,38,0.15777096317269731
+Unemployment Rate (%),mini_skirts,39,0.16409203983214082
+Unemployment Rate (%),mini_skirts,40,0.15475409495023745
+Unemployment Rate (%),mini_skirts,41,0.1712457144313656
+Unemployment Rate (%),mini_skirts,42,0.17131448902358992
+Unemployment Rate (%),mini_skirts,43,0.1663600844809834
+Unemployment Rate (%),mini_skirts,44,0.16987398969142078
+Unemployment Rate (%),mini_skirts,45,0.21175885089427626
+Unemployment Rate (%),mini_skirts,46,0.20875474684409817
+Unemployment Rate (%),mini_skirts,47,0.21536475188301013
+Unemployment Rate (%),mini_skirts,48,0.2394744043903673
+Unemployment Rate (%),fast_fashion,0,-0.6330777080788901
+Unemployment Rate (%),fast_fashion,1,-0.6324306656663823
+Unemployment Rate (%),fast_fashion,2,-0.6198829129345439
+Unemployment Rate (%),fast_fashion,3,-0.6344325107213792
+Unemployment Rate (%),fast_fashion,4,-0.6366650265439097
+Unemployment Rate (%),fast_fashion,5,-0.6213904159851176
+Unemployment Rate (%),fast_fashion,6,-0.6286372112528851
+Unemployment Rate (%),fast_fashion,7,-0.6159503200741309
+Unemployment Rate (%),fast_fashion,8,-0.6035592591853106
+Unemployment Rate (%),fast_fashion,9,-0.6134807704657509
+Unemployment Rate (%),fast_fashion,10,-0.6038198817694455
+Unemployment Rate (%),fast_fashion,11,-0.5881094500134277
+Unemployment Rate (%),fast_fashion,12,-0.5973349039030764
+Unemployment Rate (%),fast_fashion,13,-0.5886975426257433
+Unemployment Rate (%),fast_fashion,14,-0.5749775099059077
+Unemployment Rate (%),fast_fashion,15,-0.5954589503435287
+Unemployment Rate (%),fast_fashion,16,-0.5999529831071528
+Unemployment Rate (%),fast_fashion,17,-0.5909439695872707
+Unemployment Rate (%),fast_fashion,18,-0.6046006454611768
+Unemployment Rate (%),fast_fashion,19,-0.5947904669712476
+Unemployment Rate (%),fast_fashion,20,-0.584828933193611
+Unemployment Rate (%),fast_fashion,21,-0.6025461567876815
+Unemployment Rate (%),fast_fashion,22,-0.5971447201409678
+Unemployment Rate (%),fast_fashion,23,-0.5896850982600795
+Unemployment Rate (%),fast_fashion,24,-0.5971240837668208
+Unemployment Rate (%),fast_fashion,25,-0.6000623359424694
+Unemployment Rate (%),fast_fashion,26,-0.5927968806896976
+Unemployment Rate (%),fast_fashion,27,-0.6151676733481493
+Unemployment Rate (%),fast_fashion,28,-0.6173516682852657
+Unemployment Rate (%),fast_fashion,29,-0.6237047579179575
+Unemployment Rate (%),fast_fashion,30,-0.6344370421452894
+Unemployment Rate (%),fast_fashion,31,-0.6255926355758507
+Unemployment Rate (%),fast_fashion,32,-0.6355346038360471
+Unemployment Rate (%),fast_fashion,33,-0.6505231134509339
+Unemployment Rate (%),fast_fashion,34,-0.6472998342421554
+Unemployment Rate (%),fast_fashion,35,-0.6357918316306388
+Unemployment Rate (%),fast_fashion,36,-0.6446956654347261
+Unemployment Rate (%),fast_fashion,37,-0.6380632889014417
+Unemployment Rate (%),fast_fashion,38,-0.6321818547302245
+Unemployment Rate (%),fast_fashion,39,-0.6466461715827694
+Unemployment Rate (%),fast_fashion,40,-0.6528690890880889
+Unemployment Rate (%),fast_fashion,41,-0.6581540951572886
+Unemployment Rate (%),fast_fashion,42,-0.6664339582483835
+Unemployment Rate (%),fast_fashion,43,-0.6608042066579783
+Unemployment Rate (%),fast_fashion,44,-0.6658709246517439
+Unemployment Rate (%),fast_fashion,45,-0.6821851076151685
+Unemployment Rate (%),fast_fashion,46,-0.6833625627376971
+Unemployment Rate (%),fast_fashion,47,-0.6777305307216919
+Unemployment Rate (%),fast_fashion,48,-0.686842002311393
+Unemployment Rate (%),statement_pieces,0,-0.07106495640516866
+Unemployment Rate (%),statement_pieces,1,-0.08264014415356422
+Unemployment Rate (%),statement_pieces,2,-0.0331161636463745
+Unemployment Rate (%),statement_pieces,3,-0.055874700285321745
+Unemployment Rate (%),statement_pieces,4,-0.06978765009280927
+Unemployment Rate (%),statement_pieces,5,-0.0665922008100829
+Unemployment Rate (%),statement_pieces,6,-0.08888549471616825
+Unemployment Rate (%),statement_pieces,7,-0.09604425016373806
+Unemployment Rate (%),statement_pieces,8,-0.09417826755296459
+Unemployment Rate (%),statement_pieces,9,-0.0724730374057528
+Unemployment Rate (%),statement_pieces,10,-0.08795854167862184
+Unemployment Rate (%),statement_pieces,11,-0.057746077607523545
+Unemployment Rate (%),statement_pieces,12,-0.05467010565296459
+Unemployment Rate (%),statement_pieces,13,-0.06636255330124476
+Unemployment Rate (%),statement_pieces,14,-0.06324952974913114
+Unemployment Rate (%),statement_pieces,15,-0.07871291432873985
+Unemployment Rate (%),statement_pieces,16,-0.06944072169453397
+Unemployment Rate (%),statement_pieces,17,-0.09637325571276883
+Unemployment Rate (%),statement_pieces,18,-0.11226434066419104
+Unemployment Rate (%),statement_pieces,19,-0.09634703381555385
+Unemployment Rate (%),statement_pieces,20,-0.10324217268605772
+Unemployment Rate (%),statement_pieces,21,-0.10535521514450896
+Unemployment Rate (%),statement_pieces,22,-0.033565865302826
+Unemployment Rate (%),statement_pieces,23,0.021820308038456974
+Unemployment Rate (%),statement_pieces,24,0.05633795230863621
+Unemployment Rate (%),statement_pieces,25,0.054080558888222725
+Unemployment Rate (%),statement_pieces,26,0.008113950150155117
+Unemployment Rate (%),statement_pieces,27,0.023336476089828445
+Unemployment Rate (%),statement_pieces,28,0.02395651155444729
+Unemployment Rate (%),statement_pieces,29,0.005031321331366684
+Unemployment Rate (%),statement_pieces,30,0.00015937879897685476
+Unemployment Rate (%),statement_pieces,31,-0.012988987847451469
+Unemployment Rate (%),statement_pieces,32,-0.05499455020462298
+Unemployment Rate (%),statement_pieces,33,-0.055957768568088276
+Unemployment Rate (%),statement_pieces,34,-0.056993060299621284
+Unemployment Rate (%),statement_pieces,35,-0.08032172311852563
+Unemployment Rate (%),statement_pieces,36,-0.08135816941443329
+Unemployment Rate (%),statement_pieces,37,-0.12407957052384247
+Unemployment Rate (%),statement_pieces,38,-0.12183229720171893
+Unemployment Rate (%),statement_pieces,39,-0.10050781814275211
+Unemployment Rate (%),statement_pieces,40,-0.06980145951123218
+Unemployment Rate (%),statement_pieces,41,-0.10322942167077248
+Unemployment Rate (%),statement_pieces,42,-0.12346316258438127
+Unemployment Rate (%),statement_pieces,43,-0.12608511036816777
+Unemployment Rate (%),statement_pieces,44,-0.1418444257237718
+Unemployment Rate (%),statement_pieces,45,-0.14152382151578496
+Unemployment Rate (%),statement_pieces,46,-0.16277121241493567
+Unemployment Rate (%),statement_pieces,47,-0.1532816172885226
+Unemployment Rate (%),statement_pieces,48,-0.1429620259912895
+CPI_Index,luxury,0,0.7701679729047544
+CPI_Index,luxury,1,0.771477255294862
+CPI_Index,luxury,2,0.7781788444439781
+CPI_Index,luxury,3,0.7757768101903061
+CPI_Index,luxury,4,0.7703189170024973
+CPI_Index,luxury,5,0.7687333830345487
+CPI_Index,luxury,6,0.7601743814757735
+CPI_Index,luxury,7,0.7561628825139504
+CPI_Index,luxury,8,0.758040351321622
+CPI_Index,luxury,9,0.7499018247914552
+CPI_Index,luxury,10,0.7457982091047713
+CPI_Index,luxury,11,0.7422502250639453
+CPI_Index,luxury,12,0.7286360660382668
+CPI_Index,luxury,13,0.7234470578790977
+CPI_Index,luxury,14,0.724727740903521
+CPI_Index,luxury,15,0.7183215557774998
+CPI_Index,luxury,16,0.7128397036694205
+CPI_Index,luxury,17,0.7107389843173936
+CPI_Index,luxury,18,0.7039554967647637
+CPI_Index,luxury,19,0.6996645021142222
+CPI_Index,luxury,20,0.6985148565432882
+CPI_Index,luxury,21,0.6908641065726964
+CPI_Index,luxury,22,0.6887192765053887
+CPI_Index,luxury,23,0.6831752021965618
+CPI_Index,luxury,24,0.6699337687174087
+CPI_Index,luxury,25,0.667062180259876
+CPI_Index,luxury,26,0.6659655575676543
+CPI_Index,luxury,27,0.6618416644615083
+CPI_Index,luxury,28,0.6575608581674842
+CPI_Index,luxury,29,0.6511927996609851
+CPI_Index,luxury,30,0.6423742123387236
+CPI_Index,luxury,31,0.6368835394408527
+CPI_Index,luxury,32,0.6328812693249672
+CPI_Index,luxury,33,0.6208801037428086
+CPI_Index,luxury,34,0.6089641103931785
+CPI_Index,luxury,35,0.6056394432578779
+CPI_Index,luxury,36,0.6002857070641218
+CPI_Index,luxury,37,0.6124491800933973
+CPI_Index,luxury,38,0.6221283789888342
+CPI_Index,luxury,39,0.6301759222563915
+CPI_Index,luxury,40,0.649272884583094
+CPI_Index,luxury,41,0.6739861263624666
+CPI_Index,luxury,42,0.6889755045929368
+CPI_Index,luxury,43,0.6966137153850147
+CPI_Index,luxury,44,0.708968049649732
+CPI_Index,luxury,45,0.7100642778336179
+CPI_Index,luxury,46,0.7102459898518685
+CPI_Index,luxury,47,0.7186335605313466
+CPI_Index,luxury,48,0.7153225666603035
+CPI_Index,quiet_luxury,0,0.7048581594600831
+CPI_Index,quiet_luxury,1,0.6910146093963565
+CPI_Index,quiet_luxury,2,0.6809755497866967
+CPI_Index,quiet_luxury,3,0.6685993291083578
+CPI_Index,quiet_luxury,4,0.6532405386403621
+CPI_Index,quiet_luxury,5,0.64371169285561
+CPI_Index,quiet_luxury,6,0.62991972999249
+CPI_Index,quiet_luxury,7,0.612357484853455
+CPI_Index,quiet_luxury,8,0.5975520522736272
+CPI_Index,quiet_luxury,9,0.5785275011837809
+CPI_Index,quiet_luxury,10,0.5574182800504637
+CPI_Index,quiet_luxury,11,0.5386882456903297
+CPI_Index,quiet_luxury,12,0.5179047582368933
+CPI_Index,quiet_luxury,13,0.4923912526265873
+CPI_Index,quiet_luxury,14,0.4706455954827804
+CPI_Index,quiet_luxury,15,0.44137766110670396
+CPI_Index,quiet_luxury,16,0.4055309790052592
+CPI_Index,quiet_luxury,17,0.3676351680733407
+CPI_Index,quiet_luxury,18,0.3263382816847544
+CPI_Index,quiet_luxury,19,0.2746848091856347
+CPI_Index,quiet_luxury,20,0.2121160973417342
+CPI_Index,quiet_luxury,21,0.12824692754318384
+CPI_Index,quiet_luxury,22,0.04542351351777067
+CPI_Index,quiet_luxury,23,0.034394318436781625
+CPI_Index,quiet_luxury,24,0.04446717832106489
+CPI_Index,quiet_luxury,25,0.043491993961837255
+CPI_Index,quiet_luxury,26,0.0509090884283174
+CPI_Index,quiet_luxury,27,0.05853873848091411
+CPI_Index,quiet_luxury,28,0.05761008137053013
+CPI_Index,quiet_luxury,29,0.061429829078239774
+CPI_Index,quiet_luxury,30,0.06701322716299105
+CPI_Index,quiet_luxury,31,0.06611167492348646
+CPI_Index,quiet_luxury,32,0.06859729517852489
+CPI_Index,quiet_luxury,33,0.07679138945923367
+CPI_Index,quiet_luxury,34,0.07594933628402814
+CPI_Index,quiet_luxury,35,0.07955237104931416
+CPI_Index,quiet_luxury,36,0.0819252359341597
+CPI_Index,quiet_luxury,37,0.08107858786467834
+CPI_Index,quiet_luxury,38,0.08476400346914624
+CPI_Index,quiet_luxury,39,0.09258672486781286
+CPI_Index,quiet_luxury,40,0.09177696897008754
+CPI_Index,quiet_luxury,41,0.09920330844023122
+CPI_Index,quiet_luxury,42,0.1071958062881204
+CPI_Index,quiet_luxury,43,0.10645150163071036
+CPI_Index,quiet_luxury,44,0.11938158662796076
+CPI_Index,quiet_luxury,45,0.12394161437863087
+CPI_Index,quiet_luxury,46,0.12327335660176474
+CPI_Index,quiet_luxury,47,0.13439391279434454
+CPI_Index,quiet_luxury,48,0.13708856199239045
+CPI_Index,minimalist_fashion,0,0.047368358834599875
+CPI_Index,minimalist_fashion,1,0.05176314645980999
+CPI_Index,minimalist_fashion,2,0.06106718077800276
+CPI_Index,minimalist_fashion,3,0.06892498281021314
+CPI_Index,minimalist_fashion,4,0.0702306267524603
+CPI_Index,minimalist_fashion,5,0.0781689484780678
+CPI_Index,minimalist_fashion,6,0.08651090242619779
+CPI_Index,minimalist_fashion,7,0.08877439373620633
+CPI_Index,minimalist_fashion,8,0.10078864432426356
+CPI_Index,minimalist_fashion,9,0.10962335054136381
+CPI_Index,minimalist_fashion,10,0.08478010946537616
+CPI_Index,minimalist_fashion,11,0.09518293220867022
+CPI_Index,minimalist_fashion,12,0.10299142584555455
+CPI_Index,minimalist_fashion,13,0.10823376194042285
+CPI_Index,minimalist_fashion,14,0.11762596664408036
+CPI_Index,minimalist_fashion,15,0.1019552741060128
+CPI_Index,minimalist_fashion,16,0.10549262738448609
+CPI_Index,minimalist_fashion,17,0.11301474715125659
+CPI_Index,minimalist_fashion,18,0.12307243359251321
+CPI_Index,minimalist_fashion,19,0.12572898236477584
+CPI_Index,minimalist_fashion,20,0.13065702218539246
+CPI_Index,minimalist_fashion,21,0.10200821846254272
+CPI_Index,minimalist_fashion,22,0.10509288851491616
+CPI_Index,minimalist_fashion,23,0.08428482480288059
+CPI_Index,minimalist_fashion,24,0.09332589997169445
+CPI_Index,minimalist_fashion,25,0.09602068915324713
+CPI_Index,minimalist_fashion,26,0.10729862250114253
+CPI_Index,minimalist_fashion,27,0.11028616102757756
+CPI_Index,minimalist_fashion,28,0.08699977567914642
+CPI_Index,minimalist_fashion,29,0.09561495403313856
+CPI_Index,minimalist_fashion,30,0.104063549240263
+CPI_Index,minimalist_fashion,31,0.10271808806178061
+CPI_Index,minimalist_fashion,32,0.10674798416787212
+CPI_Index,minimalist_fashion,33,0.07099264107400483
+CPI_Index,minimalist_fashion,34,0.045653800390954555
+CPI_Index,minimalist_fashion,35,0.05342455204332732
+CPI_Index,minimalist_fashion,36,0.016646677536083246
+CPI_Index,minimalist_fashion,37,0.019998654083486847
+CPI_Index,minimalist_fashion,38,0.023087525394866436
+CPI_Index,minimalist_fashion,39,0.02781114395474711
+CPI_Index,minimalist_fashion,40,-0.018613185976699618
+CPI_Index,minimalist_fashion,41,-0.008296032769671849
+CPI_Index,minimalist_fashion,42,-0.004332369155412901
+CPI_Index,minimalist_fashion,43,-0.0042906270352201506
+CPI_Index,minimalist_fashion,44,0.005830944904528139
+CPI_Index,minimalist_fashion,45,0.012875575099096745
+CPI_Index,minimalist_fashion,46,0.01985228642682332
+CPI_Index,minimalist_fashion,47,0.028515769449713842
+CPI_Index,minimalist_fashion,48,0.035819195771117855
+CPI_Index,timeless_basics,0,-0.013938460956200091
+CPI_Index,timeless_basics,1,-0.013379684569142396
+CPI_Index,timeless_basics,2,-0.014091446703077834
+CPI_Index,timeless_basics,3,-0.014820943483632928
+CPI_Index,timeless_basics,4,-0.011069539709492957
+CPI_Index,timeless_basics,5,-0.011806610561068505
+CPI_Index,timeless_basics,6,-0.012534752477715946
+CPI_Index,timeless_basics,7,-0.00869263632023637
+CPI_Index,timeless_basics,8,-0.009427725471297057
+CPI_Index,timeless_basics,9,-0.010149415665936598
+CPI_Index,timeless_basics,10,-0.0075467513752720495
+CPI_Index,timeless_basics,11,-0.008283587037862167
+CPI_Index,timeless_basics,12,-0.00902078426625976
+CPI_Index,timeless_basics,13,-0.0070490411882557676
+CPI_Index,timeless_basics,14,-0.007806620916929622
+CPI_Index,timeless_basics,15,-0.008516440219132426
+CPI_Index,timeless_basics,16,-0.005768468062423572
+CPI_Index,timeless_basics,17,-0.006492597917999045
+CPI_Index,timeless_basics,18,-0.007191153431808956
+CPI_Index,timeless_basics,19,-0.003661157696179692
+CPI_Index,timeless_basics,20,-0.004369173495613157
+CPI_Index,timeless_basics,21,-0.0050656279532575585
+CPI_Index,timeless_basics,22,-0.005779232893446546
+CPI_Index,timeless_basics,23,-0.00651070404417236
+CPI_Index,timeless_basics,24,-0.00726080090570849
+CPI_Index,timeless_basics,25,-0.0028960295625012396
+CPI_Index,timeless_basics,26,-0.003652692772633219
+CPI_Index,timeless_basics,27,-0.00442423226112999
+CPI_Index,timeless_basics,28,-0.0007283436892551519
+CPI_Index,timeless_basics,29,-0.0015113660685144058
+CPI_Index,timeless_basics,30,-0.0022897377464106993
+CPI_Index,timeless_basics,31,0.003017590610809897
+CPI_Index,timeless_basics,32,0.0022386205976661177
+CPI_Index,timeless_basics,33,0.001509763573653416
+CPI_Index,timeless_basics,34,0.003874111506737075
+CPI_Index,timeless_basics,35,0.0031262008210107242
+CPI_Index,timeless_basics,36,0.0023688793052464487
+CPI_Index,timeless_basics,37,-0.015851834164785486
+CPI_Index,timeless_basics,38,-0.01676586777832806
+CPI_Index,timeless_basics,39,-0.01767675076440287
+CPI_Index,timeless_basics,40,-0.004059961498588807
+CPI_Index,timeless_basics,41,-0.004925046204212748
+CPI_Index,timeless_basics,42,-0.005789042008596747
+CPI_Index,timeless_basics,43,0.0015715684220832526
+CPI_Index,timeless_basics,44,0.0007146218915294228
+CPI_Index,timeless_basics,45,-9.285194037600815e-05
+CPI_Index,timeless_basics,46,0.0049634106112256896
+CPI_Index,timeless_basics,47,0.004148141317419021
+CPI_Index,timeless_basics,48,0.003359079072505984
+CPI_Index,capsule_wardrobe,0,0.8627228212740377
+CPI_Index,capsule_wardrobe,1,0.8696265750249598
+CPI_Index,capsule_wardrobe,2,0.8787885562102631
+CPI_Index,capsule_wardrobe,3,0.8854907393079855
+CPI_Index,capsule_wardrobe,4,0.8828505602070147
+CPI_Index,capsule_wardrobe,5,0.8836519469858408
+CPI_Index,capsule_wardrobe,6,0.8815125884298047
+CPI_Index,capsule_wardrobe,7,0.876355435507134
+CPI_Index,capsule_wardrobe,8,0.8744530337184948
+CPI_Index,capsule_wardrobe,9,0.8667723228420277
+CPI_Index,capsule_wardrobe,10,0.8574302049608883
+CPI_Index,capsule_wardrobe,11,0.8553480236323093
+CPI_Index,capsule_wardrobe,12,0.846848031794169
+CPI_Index,capsule_wardrobe,13,0.8420707476990439
+CPI_Index,capsule_wardrobe,14,0.8435339482537128
+CPI_Index,capsule_wardrobe,15,0.8386583265008568
+CPI_Index,capsule_wardrobe,16,0.8274094529858524
+CPI_Index,capsule_wardrobe,17,0.8216635517989634
+CPI_Index,capsule_wardrobe,18,0.8120128329213662
+CPI_Index,capsule_wardrobe,19,0.8003676565791109
+CPI_Index,capsule_wardrobe,20,0.7910957437759045
+CPI_Index,capsule_wardrobe,21,0.7806286870605686
+CPI_Index,capsule_wardrobe,22,0.7676601106849854
+CPI_Index,capsule_wardrobe,23,0.7624264340517132
+CPI_Index,capsule_wardrobe,24,0.7510364497818034
+CPI_Index,capsule_wardrobe,25,0.7464760339471248
+CPI_Index,capsule_wardrobe,26,0.7420663842477739
+CPI_Index,capsule_wardrobe,27,0.732236599854016
+CPI_Index,capsule_wardrobe,28,0.7234923629650842
+CPI_Index,capsule_wardrobe,29,0.7149085596447092
+CPI_Index,capsule_wardrobe,30,0.7029595929452789
+CPI_Index,capsule_wardrobe,31,0.6909827866822039
+CPI_Index,capsule_wardrobe,32,0.68395006544097
+CPI_Index,capsule_wardrobe,33,0.6708265974329061
+CPI_Index,capsule_wardrobe,34,0.6574022850105222
+CPI_Index,capsule_wardrobe,35,0.6535438599763034
+CPI_Index,capsule_wardrobe,36,0.6430500878785027
+CPI_Index,capsule_wardrobe,37,0.649522523326472
+CPI_Index,capsule_wardrobe,38,0.6577503043618061
+CPI_Index,capsule_wardrobe,39,0.6621807636149869
+CPI_Index,capsule_wardrobe,40,0.6658301439667188
+CPI_Index,capsule_wardrobe,41,0.6787485445710669
+CPI_Index,capsule_wardrobe,42,0.685500377734993
+CPI_Index,capsule_wardrobe,43,0.6939976829123271
+CPI_Index,capsule_wardrobe,44,0.7040245652280455
+CPI_Index,capsule_wardrobe,45,0.7032845426744082
+CPI_Index,capsule_wardrobe,46,0.7080616196709391
+CPI_Index,capsule_wardrobe,47,0.7191632132779097
+CPI_Index,capsule_wardrobe,48,0.7229078155877194
+CPI_Index,thrift_store,0,0.8281057455552687
+CPI_Index,thrift_store,1,0.8251379170172765
+CPI_Index,thrift_store,2,0.8267572641720872
+CPI_Index,thrift_store,3,0.8267256291737084
+CPI_Index,thrift_store,4,0.8260333896052208
+CPI_Index,thrift_store,5,0.8261004870164
+CPI_Index,thrift_store,6,0.8241851757134651
+CPI_Index,thrift_store,7,0.8179116671048644
+CPI_Index,thrift_store,8,0.8188017975002325
+CPI_Index,thrift_store,9,0.8143656172985497
+CPI_Index,thrift_store,10,0.8106301658322498
+CPI_Index,thrift_store,11,0.81155448308698
+CPI_Index,thrift_store,12,0.808391698191101
+CPI_Index,thrift_store,13,0.8062098686495971
+CPI_Index,thrift_store,14,0.8075463693028339
+CPI_Index,thrift_store,15,0.808890446097037
+CPI_Index,thrift_store,16,0.8053134659878946
+CPI_Index,thrift_store,17,0.8063188114982627
+CPI_Index,thrift_store,18,0.8067029674964195
+CPI_Index,thrift_store,19,0.8019478293460589
+CPI_Index,thrift_store,20,0.8007477179417644
+CPI_Index,thrift_store,21,0.7967747709087385
+CPI_Index,thrift_store,22,0.7927198624095158
+CPI_Index,thrift_store,23,0.7923639388555246
+CPI_Index,thrift_store,24,0.7872460345312089
+CPI_Index,thrift_store,25,0.7832314417685664
+CPI_Index,thrift_store,26,0.7820303787404959
+CPI_Index,thrift_store,27,0.7805285268365533
+CPI_Index,thrift_store,28,0.7753430125380372
+CPI_Index,thrift_store,29,0.7734293674201973
+CPI_Index,thrift_store,30,0.7709814928959958
+CPI_Index,thrift_store,31,0.763830048973167
+CPI_Index,thrift_store,32,0.7633662010790008
+CPI_Index,thrift_store,33,0.7583189538395688
+CPI_Index,thrift_store,34,0.7509531304076132
+CPI_Index,thrift_store,35,0.748838133641673
+CPI_Index,thrift_store,36,0.7447821556768559
+CPI_Index,thrift_store,37,0.7411732378320011
+CPI_Index,thrift_store,38,0.7434864177842118
+CPI_Index,thrift_store,39,0.7416847423499029
+CPI_Index,thrift_store,40,0.7393262124617211
+CPI_Index,thrift_store,41,0.7486017931625133
+CPI_Index,thrift_store,42,0.7521820992433647
+CPI_Index,thrift_store,43,0.7472093823831637
+CPI_Index,thrift_store,44,0.7481828723328842
+CPI_Index,thrift_store,45,0.7421544154095976
+CPI_Index,thrift_store,46,0.7378653496411667
+CPI_Index,thrift_store,47,0.7404573516273001
+CPI_Index,thrift_store,48,0.7343165334967573
+CPI_Index,second_hand_clothing,0,-0.2420616081050871
+CPI_Index,second_hand_clothing,1,-0.2466864947944182
+CPI_Index,second_hand_clothing,2,-0.2298542264878173
+CPI_Index,second_hand_clothing,3,-0.23555965876081708
+CPI_Index,second_hand_clothing,4,-0.2592982885986146
+CPI_Index,second_hand_clothing,5,-0.2512158950369313
+CPI_Index,second_hand_clothing,6,-0.2603617440363934
+CPI_Index,second_hand_clothing,7,-0.2578283102299523
+CPI_Index,second_hand_clothing,8,-0.2632392310907711
+CPI_Index,second_hand_clothing,9,-0.2838267182761634
+CPI_Index,second_hand_clothing,10,-0.29779110309706197
+CPI_Index,second_hand_clothing,11,-0.2884180348496394
+CPI_Index,second_hand_clothing,12,-0.30579650048010126
+CPI_Index,second_hand_clothing,13,-0.29500305334750887
+CPI_Index,second_hand_clothing,14,-0.2832425209874642
+CPI_Index,second_hand_clothing,15,-0.29771110939048356
+CPI_Index,second_hand_clothing,16,-0.3047580343660339
+CPI_Index,second_hand_clothing,17,-0.29310932825261277
+CPI_Index,second_hand_clothing,18,-0.3168385058421051
+CPI_Index,second_hand_clothing,19,-0.3154008301393011
+CPI_Index,second_hand_clothing,20,-0.3197052567751423
+CPI_Index,second_hand_clothing,21,-0.33994436472319767
+CPI_Index,second_hand_clothing,22,-0.34868534141614044
+CPI_Index,second_hand_clothing,23,-0.3574409032720049
+CPI_Index,second_hand_clothing,24,-0.36071324902844726
+CPI_Index,second_hand_clothing,25,-0.3452690254232938
+CPI_Index,second_hand_clothing,26,-0.3395123187472057
+CPI_Index,second_hand_clothing,27,-0.34064796224097127
+CPI_Index,second_hand_clothing,28,-0.33758638920996753
+CPI_Index,second_hand_clothing,29,-0.32844079793882897
+CPI_Index,second_hand_clothing,30,-0.32621993061424465
+CPI_Index,second_hand_clothing,31,-0.34255190370041394
+CPI_Index,second_hand_clothing,32,-0.3473006826602299
+CPI_Index,second_hand_clothing,33,-0.37942932892844594
+CPI_Index,second_hand_clothing,34,-0.3757272873780928
+CPI_Index,second_hand_clothing,35,-0.36656559025573815
+CPI_Index,second_hand_clothing,36,-0.3720375295135713
+CPI_Index,second_hand_clothing,37,-0.36768472851366235
+CPI_Index,second_hand_clothing,38,-0.34854359850176003
+CPI_Index,second_hand_clothing,39,-0.34526841570304523
+CPI_Index,second_hand_clothing,40,-0.33183834257515404
+CPI_Index,second_hand_clothing,41,-0.29888578326842336
+CPI_Index,second_hand_clothing,42,-0.2868392213026856
+CPI_Index,second_hand_clothing,43,-0.26817550405978635
+CPI_Index,second_hand_clothing,44,-0.2511250879541457
+CPI_Index,second_hand_clothing,45,-0.24926904039399286
+CPI_Index,second_hand_clothing,46,-0.23768643057546113
+CPI_Index,second_hand_clothing,47,-0.20951146438729895
+CPI_Index,second_hand_clothing,48,-0.21480573591036745
+CPI_Index,vintage_clothing,0,-0.7800074063877114
+CPI_Index,vintage_clothing,1,-0.7780364055762129
+CPI_Index,vintage_clothing,2,-0.7746537830447234
+CPI_Index,vintage_clothing,3,-0.7707781394254611
+CPI_Index,vintage_clothing,4,-0.7662879414197913
+CPI_Index,vintage_clothing,5,-0.7601557517100169
+CPI_Index,vintage_clothing,6,-0.757822608465976
+CPI_Index,vintage_clothing,7,-0.7538037930931644
+CPI_Index,vintage_clothing,8,-0.7471065519405006
+CPI_Index,vintage_clothing,9,-0.7463990937101362
+CPI_Index,vintage_clothing,10,-0.7435593720078211
+CPI_Index,vintage_clothing,11,-0.7349132148858335
+CPI_Index,vintage_clothing,12,-0.7306725794196837
+CPI_Index,vintage_clothing,13,-0.7239524703224157
+CPI_Index,vintage_clothing,14,-0.7147982953186396
+CPI_Index,vintage_clothing,15,-0.7059425087095501
+CPI_Index,vintage_clothing,16,-0.6991447701058059
+CPI_Index,vintage_clothing,17,-0.6869554463994062
+CPI_Index,vintage_clothing,18,-0.6787811877167855
+CPI_Index,vintage_clothing,19,-0.6688793471387836
+CPI_Index,vintage_clothing,20,-0.6575333502436823
+CPI_Index,vintage_clothing,21,-0.656436994611253
+CPI_Index,vintage_clothing,22,-0.6494796947670337
+CPI_Index,vintage_clothing,23,-0.6377039507967049
+CPI_Index,vintage_clothing,24,-0.629380547317124
+CPI_Index,vintage_clothing,25,-0.6174552463832261
+CPI_Index,vintage_clothing,26,-0.6044161172469927
+CPI_Index,vintage_clothing,27,-0.5951425458520624
+CPI_Index,vintage_clothing,28,-0.5839654728358624
+CPI_Index,vintage_clothing,29,-0.5748030174073574
+CPI_Index,vintage_clothing,30,-0.5708782201477257
+CPI_Index,vintage_clothing,31,-0.5646573970311013
+CPI_Index,vintage_clothing,32,-0.5549839214638583
+CPI_Index,vintage_clothing,33,-0.559577430387476
+CPI_Index,vintage_clothing,34,-0.5573100190285526
+CPI_Index,vintage_clothing,35,-0.553052236238358
+CPI_Index,vintage_clothing,36,-0.5527561054596308
+CPI_Index,vintage_clothing,37,-0.5465694261376115
+CPI_Index,vintage_clothing,38,-0.5409096499293213
+CPI_Index,vintage_clothing,39,-0.5369475314359137
+CPI_Index,vintage_clothing,40,-0.5357857137997553
+CPI_Index,vintage_clothing,41,-0.531723602195173
+CPI_Index,vintage_clothing,42,-0.5373214689155149
+CPI_Index,vintage_clothing,43,-0.5396735466625172
+CPI_Index,vintage_clothing,44,-0.5412982079802143
+CPI_Index,vintage_clothing,45,-0.5503560877410266
+CPI_Index,vintage_clothing,46,-0.5540198501011016
+CPI_Index,vintage_clothing,47,-0.5531185985040445
+CPI_Index,vintage_clothing,48,-0.5643180328228833
+CPI_Index,short_skirts,0,-0.838334165659229
+CPI_Index,short_skirts,1,-0.838654373849689
+CPI_Index,short_skirts,2,-0.839348340604087
+CPI_Index,short_skirts,3,-0.8403535504465333
+CPI_Index,short_skirts,4,-0.841231993271875
+CPI_Index,short_skirts,5,-0.8404172781585766
+CPI_Index,short_skirts,6,-0.8370444189719346
+CPI_Index,short_skirts,7,-0.8377680495016102
+CPI_Index,short_skirts,8,-0.8376381344050918
+CPI_Index,short_skirts,9,-0.8368018539435497
+CPI_Index,short_skirts,10,-0.8375396470673312
+CPI_Index,short_skirts,11,-0.8389532909342521
+CPI_Index,short_skirts,12,-0.8349668188958026
+CPI_Index,short_skirts,13,-0.8414107175475937
+CPI_Index,short_skirts,14,-0.8447227578354365
+CPI_Index,short_skirts,15,-0.8442004162675314
+CPI_Index,short_skirts,16,-0.8479927999367405
+CPI_Index,short_skirts,17,-0.8484621655825942
+CPI_Index,short_skirts,18,-0.8507396085328074
+CPI_Index,short_skirts,19,-0.8504287797246197
+CPI_Index,short_skirts,20,-0.8507856131488316
+CPI_Index,short_skirts,21,-0.8474577737819011
+CPI_Index,short_skirts,22,-0.8484129236344806
+CPI_Index,short_skirts,23,-0.8451713132411859
+CPI_Index,short_skirts,24,-0.8412956861448684
+CPI_Index,short_skirts,25,-0.8422796592134154
+CPI_Index,short_skirts,26,-0.8458418576326344
+CPI_Index,short_skirts,27,-0.8483466945653754
+CPI_Index,short_skirts,28,-0.8523596915252744
+CPI_Index,short_skirts,29,-0.8518203602026019
+CPI_Index,short_skirts,30,-0.8499879852814005
+CPI_Index,short_skirts,31,-0.8499606568770443
+CPI_Index,short_skirts,32,-0.8509540211294028
+CPI_Index,short_skirts,33,-0.8493814638691535
+CPI_Index,short_skirts,34,-0.84887556609028
+CPI_Index,short_skirts,35,-0.8456761174194299
+CPI_Index,short_skirts,36,-0.8389647572526349
+CPI_Index,short_skirts,37,-0.8426950416436724
+CPI_Index,short_skirts,38,-0.8420740220982235
+CPI_Index,short_skirts,39,-0.8416223545718888
+CPI_Index,short_skirts,40,-0.8435525925093685
+CPI_Index,short_skirts,41,-0.8423634226150348
+CPI_Index,short_skirts,42,-0.8385252046968522
+CPI_Index,short_skirts,43,-0.8396640415380465
+CPI_Index,short_skirts,44,-0.8409793412953839
+CPI_Index,short_skirts,45,-0.8354452134041329
+CPI_Index,short_skirts,46,-0.839403452118952
+CPI_Index,short_skirts,47,-0.8367410155532847
+CPI_Index,short_skirts,48,-0.8351211064331122
+CPI_Index,mini_skirts,0,0.1311081496258283
+CPI_Index,mini_skirts,1,0.09879751811827278
+CPI_Index,mini_skirts,2,0.06521323427184304
+CPI_Index,mini_skirts,3,0.01770640673575143
+CPI_Index,mini_skirts,4,-0.018966882392300374
+CPI_Index,mini_skirts,5,-0.02610993564947127
+CPI_Index,mini_skirts,6,-0.018471488759006435
+CPI_Index,mini_skirts,7,-0.03520986264954168
+CPI_Index,mini_skirts,8,-0.03462095026670547
+CPI_Index,mini_skirts,9,-0.0370045367368049
+CPI_Index,mini_skirts,10,-0.06615660774672433
+CPI_Index,mini_skirts,11,-0.08535494447339427
+CPI_Index,mini_skirts,12,-0.1179589340173984
+CPI_Index,mini_skirts,13,-0.13798292653250013
+CPI_Index,mini_skirts,14,-0.1697574804230127
+CPI_Index,mini_skirts,15,-0.20846335373829197
+CPI_Index,mini_skirts,16,-0.22195607394686334
+CPI_Index,mini_skirts,17,-0.2072709370198789
+CPI_Index,mini_skirts,18,-0.20192790895257046
+CPI_Index,mini_skirts,19,-0.2037893101723686
+CPI_Index,mini_skirts,20,-0.19586875943252785
+CPI_Index,mini_skirts,21,-0.1965293088274921
+CPI_Index,mini_skirts,22,-0.20459944136455732
+CPI_Index,mini_skirts,23,-0.21182717077795582
+CPI_Index,mini_skirts,24,-0.20705819386032162
+CPI_Index,mini_skirts,25,-0.22439054528968483
+CPI_Index,mini_skirts,26,-0.227037606759228
+CPI_Index,mini_skirts,27,-0.2442676508292498
+CPI_Index,mini_skirts,28,-0.276138195232421
+CPI_Index,mini_skirts,29,-0.2873318471281107
+CPI_Index,mini_skirts,30,-0.2948667296541041
+CPI_Index,mini_skirts,31,-0.2942896708418364
+CPI_Index,mini_skirts,32,-0.2863100086905388
+CPI_Index,mini_skirts,33,-0.29435988712498357
+CPI_Index,mini_skirts,34,-0.2916157432861505
+CPI_Index,mini_skirts,35,-0.27574125036248215
+CPI_Index,mini_skirts,36,-0.27042954334779107
+CPI_Index,mini_skirts,37,-0.28115136328548557
+CPI_Index,mini_skirts,38,-0.29341173435942763
+CPI_Index,mini_skirts,39,-0.3164063598862597
+CPI_Index,mini_skirts,40,-0.3233752615007057
+CPI_Index,mini_skirts,41,-0.31377460325655665
+CPI_Index,mini_skirts,42,-0.3078027378424068
+CPI_Index,mini_skirts,43,-0.3049560962980157
+CPI_Index,mini_skirts,44,-0.29807389540959867
+CPI_Index,mini_skirts,45,-0.32044559407125367
+CPI_Index,mini_skirts,46,-0.3319302599132082
+CPI_Index,mini_skirts,47,-0.33273628410522016
+CPI_Index,mini_skirts,48,-0.3394317502030801
+CPI_Index,fast_fashion,0,0.8488837092739618
+CPI_Index,fast_fashion,1,0.8664189735475264
+CPI_Index,fast_fashion,2,0.8598729870537581
+CPI_Index,fast_fashion,3,0.8555032965550606
+CPI_Index,fast_fashion,4,0.8599654435935878
+CPI_Index,fast_fashion,5,0.853494324570658
+CPI_Index,fast_fashion,6,0.8518460369040997
+CPI_Index,fast_fashion,7,0.8553273456389866
+CPI_Index,fast_fashion,8,0.847527228075437
+CPI_Index,fast_fashion,9,0.8435799188767618
+CPI_Index,fast_fashion,10,0.846139213315556
+CPI_Index,fast_fashion,11,0.8421557751757216
+CPI_Index,fast_fashion,12,0.8522424319816595
+CPI_Index,fast_fashion,13,0.8692110635805645
+CPI_Index,fast_fashion,14,0.8595976663646302
+CPI_Index,fast_fashion,15,0.8529779071157819
+CPI_Index,fast_fashion,16,0.8545022751794001
+CPI_Index,fast_fashion,17,0.8480042271667847
+CPI_Index,fast_fashion,18,0.8455254027634048
+CPI_Index,fast_fashion,19,0.8465970018080735
+CPI_Index,fast_fashion,20,0.8368278308346448
+CPI_Index,fast_fashion,21,0.8316755762544067
+CPI_Index,fast_fashion,22,0.8315212001932755
+CPI_Index,fast_fashion,23,0.8234478581395525
+CPI_Index,fast_fashion,24,0.8334442905275188
+CPI_Index,fast_fashion,25,0.8470199212235533
+CPI_Index,fast_fashion,26,0.8369262068772794
+CPI_Index,fast_fashion,27,0.8335521119559648
+CPI_Index,fast_fashion,28,0.8346278718843816
+CPI_Index,fast_fashion,29,0.828041730868793
+CPI_Index,fast_fashion,30,0.8261525527712035
+CPI_Index,fast_fashion,31,0.8288846036055564
+CPI_Index,fast_fashion,32,0.8274711234964021
+CPI_Index,fast_fashion,33,0.8203441522845054
+CPI_Index,fast_fashion,34,0.8253989736721628
+CPI_Index,fast_fashion,35,0.8155430965510414
+CPI_Index,fast_fashion,36,0.8253707249899118
+CPI_Index,fast_fashion,37,0.8429406085950744
+CPI_Index,fast_fashion,38,0.831085684841668
+CPI_Index,fast_fashion,39,0.8249726214092014
+CPI_Index,fast_fashion,40,0.8276461383699473
+CPI_Index,fast_fashion,41,0.8177166230275624
+CPI_Index,fast_fashion,42,0.8186057834894391
+CPI_Index,fast_fashion,43,0.8203011764958895
+CPI_Index,fast_fashion,44,0.8119059366923014
+CPI_Index,fast_fashion,45,0.8134922764526494
+CPI_Index,fast_fashion,46,0.819274290340408
+CPI_Index,fast_fashion,47,0.8227666028208971
+CPI_Index,fast_fashion,48,0.8429504289188593
+CPI_Index,statement_pieces,0,0.17148797478464622
+CPI_Index,statement_pieces,1,0.17627888913906906
+CPI_Index,statement_pieces,2,0.10576028704091407
+CPI_Index,statement_pieces,3,0.10731891754891125
+CPI_Index,statement_pieces,4,0.11199912320402652
+CPI_Index,statement_pieces,5,0.11479776729947612
+CPI_Index,statement_pieces,6,0.11684207966643774
+CPI_Index,statement_pieces,7,0.11757718078174309
+CPI_Index,statement_pieces,8,0.12045867248558727
+CPI_Index,statement_pieces,9,0.12008228748870864
+CPI_Index,statement_pieces,10,0.1208395387782055
+CPI_Index,statement_pieces,11,0.034673264566940094
+CPI_Index,statement_pieces,12,0.03750608122745066
+CPI_Index,statement_pieces,13,0.03677498354860016
+CPI_Index,statement_pieces,14,0.047858081269504534
+CPI_Index,statement_pieces,15,0.05032803207151726
+CPI_Index,statement_pieces,16,0.04968162425885392
+CPI_Index,statement_pieces,17,0.059218189020903894
+CPI_Index,statement_pieces,18,0.06286108646779669
+CPI_Index,statement_pieces,19,0.062278514578772134
+CPI_Index,statement_pieces,20,0.07253431229907524
+CPI_Index,statement_pieces,21,0.07415538304170609
+CPI_Index,statement_pieces,22,0.07362173171236927
+CPI_Index,statement_pieces,23,0.08460007528972677
+CPI_Index,statement_pieces,24,0.07203891440744803
+CPI_Index,statement_pieces,25,0.07146901795837589
+CPI_Index,statement_pieces,26,0.07969402759274417
+CPI_Index,statement_pieces,27,0.08923197841967033
+CPI_Index,statement_pieces,28,0.08875347945068078
+CPI_Index,statement_pieces,29,0.09375759933719036
+CPI_Index,statement_pieces,30,0.09900527095013376
+CPI_Index,statement_pieces,31,0.09857273515192408
+CPI_Index,statement_pieces,32,0.10628579987915628
+CPI_Index,statement_pieces,33,0.1099479018718394
+CPI_Index,statement_pieces,34,0.10955047625272206
+CPI_Index,statement_pieces,35,0.1132986458399711
+CPI_Index,statement_pieces,36,0.11825191759109693
+CPI_Index,statement_pieces,37,0.11789240339545957
+CPI_Index,statement_pieces,38,0.12440647825819007
+CPI_Index,statement_pieces,39,0.12951672047408574
+CPI_Index,statement_pieces,40,0.12921263477378173
+CPI_Index,statement_pieces,41,0.13646150373998836
+CPI_Index,statement_pieces,42,0.14606401399002095
+CPI_Index,statement_pieces,43,0.1458542687586865
+CPI_Index,statement_pieces,44,0.14729764283202187
+CPI_Index,statement_pieces,45,0.16340939241037802
+CPI_Index,statement_pieces,46,0.16324926610835425
+CPI_Index,statement_pieces,47,0.16477430720048047
+CPI_Index,statement_pieces,48,0.07314539746176575
+Seasonally Adjusted Turnover ($m),luxury,0,0.6546588926889401
+Seasonally Adjusted Turnover ($m),luxury,1,0.642332801175206
+Seasonally Adjusted Turnover ($m),luxury,2,0.6615219641021078
+Seasonally Adjusted Turnover ($m),luxury,3,0.6684072992227953
+Seasonally Adjusted Turnover ($m),luxury,4,0.6804841653798455
+Seasonally Adjusted Turnover ($m),luxury,5,0.682467295261153
+Seasonally Adjusted Turnover ($m),luxury,6,0.6873910198650697
+Seasonally Adjusted Turnover ($m),luxury,7,0.6823363053569661
+Seasonally Adjusted Turnover ($m),luxury,8,0.6867178968838806
+Seasonally Adjusted Turnover ($m),luxury,9,0.7023545312664965
+Seasonally Adjusted Turnover ($m),luxury,10,0.7003414391017082
+Seasonally Adjusted Turnover ($m),luxury,11,0.7093326953712777
+Seasonally Adjusted Turnover ($m),luxury,12,0.7101800439343933
+Seasonally Adjusted Turnover ($m),luxury,13,0.6916585443828435
+Seasonally Adjusted Turnover ($m),luxury,14,0.7226494248066732
+Seasonally Adjusted Turnover ($m),luxury,15,0.7298173272309172
+Seasonally Adjusted Turnover ($m),luxury,16,0.7400605060037021
+Seasonally Adjusted Turnover ($m),luxury,17,0.732798082389309
+Seasonally Adjusted Turnover ($m),luxury,18,0.7331415825928269
+Seasonally Adjusted Turnover ($m),luxury,19,0.7249162170133815
+Seasonally Adjusted Turnover ($m),luxury,20,0.7308810956590313
+Seasonally Adjusted Turnover ($m),luxury,21,0.7452524521365794
+Seasonally Adjusted Turnover ($m),luxury,22,0.74579021702152
+Seasonally Adjusted Turnover ($m),luxury,23,0.752080061061046
+Seasonally Adjusted Turnover ($m),luxury,24,0.7514304285953121
+Seasonally Adjusted Turnover ($m),luxury,25,0.7424323641249859
+Seasonally Adjusted Turnover ($m),luxury,26,0.7643839410829831
+Seasonally Adjusted Turnover ($m),luxury,27,0.766903513352596
+Seasonally Adjusted Turnover ($m),luxury,28,0.7755641829685382
+Seasonally Adjusted Turnover ($m),luxury,29,0.7804040163000328
+Seasonally Adjusted Turnover ($m),luxury,30,0.7863417211793207
+Seasonally Adjusted Turnover ($m),luxury,31,0.7793382462505433
+Seasonally Adjusted Turnover ($m),luxury,32,0.7875020202442459
+Seasonally Adjusted Turnover ($m),luxury,33,0.7978453957807335
+Seasonally Adjusted Turnover ($m),luxury,34,0.797310576762523
+Seasonally Adjusted Turnover ($m),luxury,35,0.7997301136493532
+Seasonally Adjusted Turnover ($m),luxury,36,0.798637252008964
+Seasonally Adjusted Turnover ($m),luxury,37,0.7864603656996079
+Seasonally Adjusted Turnover ($m),luxury,38,0.8026928781098244
+Seasonally Adjusted Turnover ($m),luxury,39,0.7983415314952633
+Seasonally Adjusted Turnover ($m),luxury,40,0.8134197241782138
+Seasonally Adjusted Turnover ($m),luxury,41,0.8250290903659081
+Seasonally Adjusted Turnover ($m),luxury,42,0.8269081593263679
+Seasonally Adjusted Turnover ($m),luxury,43,0.8256066180471324
+Seasonally Adjusted Turnover ($m),luxury,44,0.8254017987850281
+Seasonally Adjusted Turnover ($m),luxury,45,0.8321527892980938
+Seasonally Adjusted Turnover ($m),luxury,46,0.8240722739513859
+Seasonally Adjusted Turnover ($m),luxury,47,0.831730930773518
+Seasonally Adjusted Turnover ($m),luxury,48,0.8247046445318201
+Seasonally Adjusted Turnover ($m),quiet_luxury,0,0.4935277110417313
+Seasonally Adjusted Turnover ($m),quiet_luxury,1,0.4812497844307403
+Seasonally Adjusted Turnover ($m),quiet_luxury,2,0.4691417991778609
+Seasonally Adjusted Turnover ($m),quiet_luxury,3,0.4697544754391297
+Seasonally Adjusted Turnover ($m),quiet_luxury,4,0.45727609206489767
+Seasonally Adjusted Turnover ($m),quiet_luxury,5,0.4448120825679026
+Seasonally Adjusted Turnover ($m),quiet_luxury,6,0.4301372739252306
+Seasonally Adjusted Turnover ($m),quiet_luxury,7,0.4006456672172939
+Seasonally Adjusted Turnover ($m),quiet_luxury,8,0.4003079015683566
+Seasonally Adjusted Turnover ($m),quiet_luxury,9,0.38409403762726607
+Seasonally Adjusted Turnover ($m),quiet_luxury,10,0.3682087409496209
+Seasonally Adjusted Turnover ($m),quiet_luxury,11,0.3538657649921534
+Seasonally Adjusted Turnover ($m),quiet_luxury,12,0.3368126208191065
+Seasonally Adjusted Turnover ($m),quiet_luxury,13,0.3189735249679176
+Seasonally Adjusted Turnover ($m),quiet_luxury,14,0.30219558365365407
+Seasonally Adjusted Turnover ($m),quiet_luxury,15,0.28189057405328544
+Seasonally Adjusted Turnover ($m),quiet_luxury,16,0.2598844922783889
+Seasonally Adjusted Turnover ($m),quiet_luxury,17,0.2358887714166173
+Seasonally Adjusted Turnover ($m),quiet_luxury,18,0.20893815967181512
+Seasonally Adjusted Turnover ($m),quiet_luxury,19,0.17821049359840518
+Seasonally Adjusted Turnover ($m),quiet_luxury,20,0.14323737898697275
+Seasonally Adjusted Turnover ($m),quiet_luxury,21,0.08515613339764729
+Seasonally Adjusted Turnover ($m),quiet_luxury,22,0.1250462323496296
+Seasonally Adjusted Turnover ($m),quiet_luxury,23,0.05025428247424933
+Seasonally Adjusted Turnover ($m),quiet_luxury,24,0.05278160487738297
+Seasonally Adjusted Turnover ($m),quiet_luxury,25,0.04889288412159373
+Seasonally Adjusted Turnover ($m),quiet_luxury,26,0.046925764482617136
+Seasonally Adjusted Turnover ($m),quiet_luxury,27,0.04833369582575295
+Seasonally Adjusted Turnover ($m),quiet_luxury,28,0.05226900454742152
+Seasonally Adjusted Turnover ($m),quiet_luxury,29,0.050755186900964686
+Seasonally Adjusted Turnover ($m),quiet_luxury,30,0.048812802931662666
+Seasonally Adjusted Turnover ($m),quiet_luxury,31,0.12848923222488842
+Seasonally Adjusted Turnover ($m),quiet_luxury,32,0.12913086353656342
+Seasonally Adjusted Turnover ($m),quiet_luxury,33,0.13018652836421205
+Seasonally Adjusted Turnover ($m),quiet_luxury,34,0.12980445498282164
+Seasonally Adjusted Turnover ($m),quiet_luxury,35,0.04592033375949288
+Seasonally Adjusted Turnover ($m),quiet_luxury,36,0.124504912078614
+Seasonally Adjusted Turnover ($m),quiet_luxury,37,0.12274814811143077
+Seasonally Adjusted Turnover ($m),quiet_luxury,38,0.12467005147498175
+Seasonally Adjusted Turnover ($m),quiet_luxury,39,0.12893275092684428
+Seasonally Adjusted Turnover ($m),quiet_luxury,40,0.1338828190543736
+Seasonally Adjusted Turnover ($m),quiet_luxury,41,0.13380635638361552
+Seasonally Adjusted Turnover ($m),quiet_luxury,42,0.13409474252122103
+Seasonally Adjusted Turnover ($m),quiet_luxury,43,0.13531889388074764
+Seasonally Adjusted Turnover ($m),quiet_luxury,44,0.13686325730094206
+Seasonally Adjusted Turnover ($m),quiet_luxury,45,0.13846530865204684
+Seasonally Adjusted Turnover ($m),quiet_luxury,46,0.13859362056494795
+Seasonally Adjusted Turnover ($m),quiet_luxury,47,0.13958655329197767
+Seasonally Adjusted Turnover ($m),quiet_luxury,48,0.14674482922191406
+Seasonally Adjusted Turnover ($m),minimalist_fashion,0,-0.07881537262042085
+Seasonally Adjusted Turnover ($m),minimalist_fashion,1,-0.07430576493583443
+Seasonally Adjusted Turnover ($m),minimalist_fashion,2,-0.044051179297036294
+Seasonally Adjusted Turnover ($m),minimalist_fashion,3,-0.04828362066281802
+Seasonally Adjusted Turnover ($m),minimalist_fashion,4,-0.08804171786738543
+Seasonally Adjusted Turnover ($m),minimalist_fashion,5,-0.06668130573617527
+Seasonally Adjusted Turnover ($m),minimalist_fashion,6,-0.06715277044964099
+Seasonally Adjusted Turnover ($m),minimalist_fashion,7,-0.018494782987593182
+Seasonally Adjusted Turnover ($m),minimalist_fashion,8,-0.04256067046567087
+Seasonally Adjusted Turnover ($m),minimalist_fashion,9,-0.021444419359989492
+Seasonally Adjusted Turnover ($m),minimalist_fashion,10,-0.06361776405517283
+Seasonally Adjusted Turnover ($m),minimalist_fashion,11,-0.039827909662398284
+Seasonally Adjusted Turnover ($m),minimalist_fashion,12,-0.013977645954380745
+Seasonally Adjusted Turnover ($m),minimalist_fashion,13,-0.015069159441765366
+Seasonally Adjusted Turnover ($m),minimalist_fashion,14,0.006970585049586837
+Seasonally Adjusted Turnover ($m),minimalist_fashion,15,-0.060384171138506984
+Seasonally Adjusted Turnover ($m),minimalist_fashion,16,-0.036392545055036966
+Seasonally Adjusted Turnover ($m),minimalist_fashion,17,-0.012493962110172747
+Seasonally Adjusted Turnover ($m),minimalist_fashion,18,0.005124761623965112
+Seasonally Adjusted Turnover ($m),minimalist_fashion,19,0.0071209271593478595
+Seasonally Adjusted Turnover ($m),minimalist_fashion,20,0.011528807851036844
+Seasonally Adjusted Turnover ($m),minimalist_fashion,21,0.04949567735845722
+Seasonally Adjusted Turnover ($m),minimalist_fashion,22,0.01282231901042346
+Seasonally Adjusted Turnover ($m),minimalist_fashion,23,0.04194127948684071
+Seasonally Adjusted Turnover ($m),minimalist_fashion,24,0.013043110244640254
+Seasonally Adjusted Turnover ($m),minimalist_fashion,25,0.03813373465921156
+Seasonally Adjusted Turnover ($m),minimalist_fashion,26,0.011781291265837528
+Seasonally Adjusted Turnover ($m),minimalist_fashion,27,0.00927709598507045
+Seasonally Adjusted Turnover ($m),minimalist_fashion,28,0.023777503931406613
+Seasonally Adjusted Turnover ($m),minimalist_fashion,29,0.01312621190685877
+Seasonally Adjusted Turnover ($m),minimalist_fashion,30,0.05721375472200844
+Seasonally Adjusted Turnover ($m),minimalist_fashion,31,0.06060888467457604
+Seasonally Adjusted Turnover ($m),minimalist_fashion,32,0.12108512349390739
+Seasonally Adjusted Turnover ($m),minimalist_fashion,33,0.12581712722839997
+Seasonally Adjusted Turnover ($m),minimalist_fashion,34,0.06098532236046685
+Seasonally Adjusted Turnover ($m),minimalist_fashion,35,0.07642539280081799
+Seasonally Adjusted Turnover ($m),minimalist_fashion,36,0.0805474856671108
+Seasonally Adjusted Turnover ($m),minimalist_fashion,37,0.12102140651078598
+Seasonally Adjusted Turnover ($m),minimalist_fashion,38,0.13738900390119121
+Seasonally Adjusted Turnover ($m),minimalist_fashion,39,0.20668555166276073
+Seasonally Adjusted Turnover ($m),minimalist_fashion,40,0.15634967552368212
+Seasonally Adjusted Turnover ($m),minimalist_fashion,41,0.21278004705695636
+Seasonally Adjusted Turnover ($m),minimalist_fashion,42,0.21887220096392537
+Seasonally Adjusted Turnover ($m),minimalist_fashion,43,0.21382267987487655
+Seasonally Adjusted Turnover ($m),minimalist_fashion,44,0.2507423847868365
+Seasonally Adjusted Turnover ($m),minimalist_fashion,45,0.21531111040285916
+Seasonally Adjusted Turnover ($m),minimalist_fashion,46,0.2146667428712933
+Seasonally Adjusted Turnover ($m),minimalist_fashion,47,0.2519918911693967
+Seasonally Adjusted Turnover ($m),minimalist_fashion,48,0.24947595727663469
+Seasonally Adjusted Turnover ($m),timeless_basics,0,-0.06565041581969201
+Seasonally Adjusted Turnover ($m),timeless_basics,1,-0.06551510030588327
+Seasonally Adjusted Turnover ($m),timeless_basics,2,-0.06538262963693861
+Seasonally Adjusted Turnover ($m),timeless_basics,3,-0.06524807109150778
+Seasonally Adjusted Turnover ($m),timeless_basics,4,-0.0651098612724185
+Seasonally Adjusted Turnover ($m),timeless_basics,5,-0.06562223043676246
+Seasonally Adjusted Turnover ($m),timeless_basics,6,-0.0661430284369817
+Seasonally Adjusted Turnover ($m),timeless_basics,7,-0.06667247206297044
+Seasonally Adjusted Turnover ($m),timeless_basics,8,0.05816816248159188
+Seasonally Adjusted Turnover ($m),timeless_basics,9,-0.06775820230172572
+Seasonally Adjusted Turnover ($m),timeless_basics,10,-0.06831496252989351
+Seasonally Adjusted Turnover ($m),timeless_basics,11,-0.06817877478278789
+Seasonally Adjusted Turnover ($m),timeless_basics,12,-0.0687457790284425
+Seasonally Adjusted Turnover ($m),timeless_basics,13,-0.06932267315806598
+Seasonally Adjusted Turnover ($m),timeless_basics,14,-0.0699097276323121
+Seasonally Adjusted Turnover ($m),timeless_basics,15,-0.07050722317410138
+Seasonally Adjusted Turnover ($m),timeless_basics,16,-0.07111545127270935
+Seasonally Adjusted Turnover ($m),timeless_basics,17,0.05966011983472307
+Seasonally Adjusted Turnover ($m),timeless_basics,18,0.06002600695181637
+Seasonally Adjusted Turnover ($m),timeless_basics,19,0.05917094468083314
+Seasonally Adjusted Turnover ($m),timeless_basics,20,0.05977639685649865
+Seasonally Adjusted Turnover ($m),timeless_basics,21,-0.07432860611146515
+Seasonally Adjusted Turnover ($m),timeless_basics,22,0.05956705277209992
+Seasonally Adjusted Turnover ($m),timeless_basics,23,0.05880064379081175
+Seasonally Adjusted Turnover ($m),timeless_basics,24,0.05905566454148065
+Seasonally Adjusted Turnover ($m),timeless_basics,25,0.0591990774985275
+Seasonally Adjusted Turnover ($m),timeless_basics,26,0.058920797301854747
+Seasonally Adjusted Turnover ($m),timeless_basics,27,0.05932221117264067
+Seasonally Adjusted Turnover ($m),timeless_basics,28,0.05909787348042541
+Seasonally Adjusted Turnover ($m),timeless_basics,29,0.05935409505549314
+Seasonally Adjusted Turnover ($m),timeless_basics,30,0.05915551597287638
+Seasonally Adjusted Turnover ($m),timeless_basics,31,0.060045358938285484
+Seasonally Adjusted Turnover ($m),timeless_basics,32,0.05912046954835996
+Seasonally Adjusted Turnover ($m),timeless_basics,33,0.05880669495982575
+Seasonally Adjusted Turnover ($m),timeless_basics,34,0.0690843752937294
+Seasonally Adjusted Turnover ($m),timeless_basics,35,0.042384054809982
+Seasonally Adjusted Turnover ($m),timeless_basics,36,0.06258826951164907
+Seasonally Adjusted Turnover ($m),timeless_basics,37,0.06633615443375744
+Seasonally Adjusted Turnover ($m),timeless_basics,38,0.07224449416420803
+Seasonally Adjusted Turnover ($m),timeless_basics,39,0.06505526421747578
+Seasonally Adjusted Turnover ($m),timeless_basics,40,0.06274041675680278
+Seasonally Adjusted Turnover ($m),timeless_basics,41,0.06544244972162248
+Seasonally Adjusted Turnover ($m),timeless_basics,42,0.07292775044062177
+Seasonally Adjusted Turnover ($m),timeless_basics,43,0.0709033935029253
+Seasonally Adjusted Turnover ($m),timeless_basics,44,0.0700353548239634
+Seasonally Adjusted Turnover ($m),timeless_basics,45,0.06762478527679895
+Seasonally Adjusted Turnover ($m),timeless_basics,46,0.06834564174389413
+Seasonally Adjusted Turnover ($m),timeless_basics,47,0.06991321932114732
+Seasonally Adjusted Turnover ($m),timeless_basics,48,0.06951469670915235
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,0,0.6452650009637793
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,1,0.6571240321429328
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,2,0.6671664665471817
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,3,0.6824427579904824
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,4,0.6921591029305527
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,5,0.6941931751609217
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,6,0.6987984391503559
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,7,0.7066260952055509
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,8,0.7017021548957268
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,9,0.7103529865251532
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,10,0.7022482434831677
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,11,0.6957188845425468
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,12,0.7036783362431133
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,13,0.6952153779064661
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,14,0.7054344334384409
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,15,0.7086978149741937
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,16,0.7140966535784872
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,17,0.7127783228075464
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,18,0.7287946352964564
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,19,0.7467454169405829
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,20,0.736598224987211
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,21,0.7523433697701386
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,22,0.7485409007944458
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,23,0.7494506680494211
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,24,0.7558475205603464
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,25,0.7527679275822157
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,26,0.7632491430145621
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,27,0.7598535579951298
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,28,0.7862183097874205
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,29,0.7846752071897781
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,30,0.7981010079642649
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,31,0.8084350773614802
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,32,0.8029945155611816
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,33,0.8209910846168624
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,34,0.816587697539315
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,35,0.8146907034658876
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,36,0.8203174505875022
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,37,0.8234893055495145
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,38,0.8337930583974498
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,39,0.8384858061528677
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,40,0.8474364864971808
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,41,0.8589002125979627
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,42,0.8744240008757516
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,43,0.8760574857843701
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,44,0.8813901355621152
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,45,0.8797803739044859
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,46,0.8708657364955652
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,47,0.8829681538870988
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,48,0.8901960843231844
+Seasonally Adjusted Turnover ($m),thrift_store,0,0.7934048913658852
+Seasonally Adjusted Turnover ($m),thrift_store,1,0.7917480890351147
+Seasonally Adjusted Turnover ($m),thrift_store,2,0.8014963778789178
+Seasonally Adjusted Turnover ($m),thrift_store,3,0.8055108885477844
+Seasonally Adjusted Turnover ($m),thrift_store,4,0.8149827969895297
+Seasonally Adjusted Turnover ($m),thrift_store,5,0.8161086260328073
+Seasonally Adjusted Turnover ($m),thrift_store,6,0.8238710833959874
+Seasonally Adjusted Turnover ($m),thrift_store,7,0.8200968238632992
+Seasonally Adjusted Turnover ($m),thrift_store,8,0.8131348081939179
+Seasonally Adjusted Turnover ($m),thrift_store,9,0.813152899844914
+Seasonally Adjusted Turnover ($m),thrift_store,10,0.7993816749061514
+Seasonally Adjusted Turnover ($m),thrift_store,11,0.8144896692159155
+Seasonally Adjusted Turnover ($m),thrift_store,12,0.8094961455083645
+Seasonally Adjusted Turnover ($m),thrift_store,13,0.8022172317351973
+Seasonally Adjusted Turnover ($m),thrift_store,14,0.8037228924676582
+Seasonally Adjusted Turnover ($m),thrift_store,15,0.8011790595768599
+Seasonally Adjusted Turnover ($m),thrift_store,16,0.8034601225400999
+Seasonally Adjusted Turnover ($m),thrift_store,17,0.8029861389735515
+Seasonally Adjusted Turnover ($m),thrift_store,18,0.7949390679888297
+Seasonally Adjusted Turnover ($m),thrift_store,19,0.7930785869888447
+Seasonally Adjusted Turnover ($m),thrift_store,20,0.7854827818226707
+Seasonally Adjusted Turnover ($m),thrift_store,21,0.7839579763794889
+Seasonally Adjusted Turnover ($m),thrift_store,22,0.7741745841911984
+Seasonally Adjusted Turnover ($m),thrift_store,23,0.7668042865348452
+Seasonally Adjusted Turnover ($m),thrift_store,24,0.7577298948223314
+Seasonally Adjusted Turnover ($m),thrift_store,25,0.7497227174685502
+Seasonally Adjusted Turnover ($m),thrift_store,26,0.7448023637977863
+Seasonally Adjusted Turnover ($m),thrift_store,27,0.7381203267474347
+Seasonally Adjusted Turnover ($m),thrift_store,28,0.733518482025715
+Seasonally Adjusted Turnover ($m),thrift_store,29,0.7206414666451377
+Seasonally Adjusted Turnover ($m),thrift_store,30,0.7149436728362424
+Seasonally Adjusted Turnover ($m),thrift_store,31,0.7112448177131198
+Seasonally Adjusted Turnover ($m),thrift_store,32,0.6923196820657025
+Seasonally Adjusted Turnover ($m),thrift_store,33,0.6931793064149893
+Seasonally Adjusted Turnover ($m),thrift_store,34,0.6800761583933097
+Seasonally Adjusted Turnover ($m),thrift_store,35,0.6707351721307806
+Seasonally Adjusted Turnover ($m),thrift_store,36,0.665528312946548
+Seasonally Adjusted Turnover ($m),thrift_store,37,0.6509441791799442
+Seasonally Adjusted Turnover ($m),thrift_store,38,0.6408703132480701
+Seasonally Adjusted Turnover ($m),thrift_store,39,0.625437773965049
+Seasonally Adjusted Turnover ($m),thrift_store,40,0.6189485123988331
+Seasonally Adjusted Turnover ($m),thrift_store,41,0.6101876442071412
+Seasonally Adjusted Turnover ($m),thrift_store,42,0.607609321426355
+Seasonally Adjusted Turnover ($m),thrift_store,43,0.5960329189196129
+Seasonally Adjusted Turnover ($m),thrift_store,44,0.5811155771006375
+Seasonally Adjusted Turnover ($m),thrift_store,45,0.5738406081427749
+Seasonally Adjusted Turnover ($m),thrift_store,46,0.5552547926499083
+Seasonally Adjusted Turnover ($m),thrift_store,47,0.5462673046938739
+Seasonally Adjusted Turnover ($m),thrift_store,48,0.5312463456811556
+Seasonally Adjusted Turnover ($m),second_hand_clothing,0,-0.3021440160220954
+Seasonally Adjusted Turnover ($m),second_hand_clothing,1,-0.3297585204939369
+Seasonally Adjusted Turnover ($m),second_hand_clothing,2,-0.28575483141457286
+Seasonally Adjusted Turnover ($m),second_hand_clothing,3,-0.26083083839786897
+Seasonally Adjusted Turnover ($m),second_hand_clothing,4,-0.24547334565386938
+Seasonally Adjusted Turnover ($m),second_hand_clothing,5,-0.2523016281440808
+Seasonally Adjusted Turnover ($m),second_hand_clothing,6,-0.24521267913891498
+Seasonally Adjusted Turnover ($m),second_hand_clothing,7,-0.2495012057457733
+Seasonally Adjusted Turnover ($m),second_hand_clothing,8,-0.24823474537448048
+Seasonally Adjusted Turnover ($m),second_hand_clothing,9,-0.24350544335701932
+Seasonally Adjusted Turnover ($m),second_hand_clothing,10,-0.27739315420644556
+Seasonally Adjusted Turnover ($m),second_hand_clothing,11,-0.2708386520948879
+Seasonally Adjusted Turnover ($m),second_hand_clothing,12,-0.2501961117740578
+Seasonally Adjusted Turnover ($m),second_hand_clothing,13,-0.25538882103855265
+Seasonally Adjusted Turnover ($m),second_hand_clothing,14,-0.22876905491512217
+Seasonally Adjusted Turnover ($m),second_hand_clothing,15,-0.2310007078258864
+Seasonally Adjusted Turnover ($m),second_hand_clothing,16,-0.2339585920813767
+Seasonally Adjusted Turnover ($m),second_hand_clothing,17,-0.20292091464883324
+Seasonally Adjusted Turnover ($m),second_hand_clothing,18,-0.21799950516351735
+Seasonally Adjusted Turnover ($m),second_hand_clothing,19,-0.2165489091967307
+Seasonally Adjusted Turnover ($m),second_hand_clothing,20,-0.19708650585131968
+Seasonally Adjusted Turnover ($m),second_hand_clothing,21,-0.21812255216334261
+Seasonally Adjusted Turnover ($m),second_hand_clothing,22,-0.2058055349710345
+Seasonally Adjusted Turnover ($m),second_hand_clothing,23,-0.21853037917911866
+Seasonally Adjusted Turnover ($m),second_hand_clothing,24,-0.20334006994445936
+Seasonally Adjusted Turnover ($m),second_hand_clothing,25,-0.22308127753974027
+Seasonally Adjusted Turnover ($m),second_hand_clothing,26,-0.20184373686040089
+Seasonally Adjusted Turnover ($m),second_hand_clothing,27,-0.20345111518403092
+Seasonally Adjusted Turnover ($m),second_hand_clothing,28,-0.21961359426657476
+Seasonally Adjusted Turnover ($m),second_hand_clothing,29,-0.2041752581933875
+Seasonally Adjusted Turnover ($m),second_hand_clothing,30,-0.1878018560937692
+Seasonally Adjusted Turnover ($m),second_hand_clothing,31,-0.1966293328514879
+Seasonally Adjusted Turnover ($m),second_hand_clothing,32,-0.19187071617987064
+Seasonally Adjusted Turnover ($m),second_hand_clothing,33,-0.22636953908812021
+Seasonally Adjusted Turnover ($m),second_hand_clothing,34,-0.23102719984544456
+Seasonally Adjusted Turnover ($m),second_hand_clothing,35,-0.23597251618352835
+Seasonally Adjusted Turnover ($m),second_hand_clothing,36,-0.2156317942266201
+Seasonally Adjusted Turnover ($m),second_hand_clothing,37,-0.24411218198194873
+Seasonally Adjusted Turnover ($m),second_hand_clothing,38,-0.23335896470598572
+Seasonally Adjusted Turnover ($m),second_hand_clothing,39,-0.22284551093724486
+Seasonally Adjusted Turnover ($m),second_hand_clothing,40,-0.21367760385354978
+Seasonally Adjusted Turnover ($m),second_hand_clothing,41,-0.17858039674862877
+Seasonally Adjusted Turnover ($m),second_hand_clothing,42,-0.16796245875547963
+Seasonally Adjusted Turnover ($m),second_hand_clothing,43,-0.18618109857006743
+Seasonally Adjusted Turnover ($m),second_hand_clothing,44,-0.18276396933119304
+Seasonally Adjusted Turnover ($m),second_hand_clothing,45,-0.16154839686501216
+Seasonally Adjusted Turnover ($m),second_hand_clothing,46,-0.1694781293973311
+Seasonally Adjusted Turnover ($m),second_hand_clothing,47,-0.18167256134884674
+Seasonally Adjusted Turnover ($m),second_hand_clothing,48,-0.1973697720053169
+Seasonally Adjusted Turnover ($m),vintage_clothing,0,-0.5433516900065023
+Seasonally Adjusted Turnover ($m),vintage_clothing,1,-0.5523478202076493
+Seasonally Adjusted Turnover ($m),vintage_clothing,2,-0.5558685556667625
+Seasonally Adjusted Turnover ($m),vintage_clothing,3,-0.5611912170938107
+Seasonally Adjusted Turnover ($m),vintage_clothing,4,-0.561130535272626
+Seasonally Adjusted Turnover ($m),vintage_clothing,5,-0.5587472413132875
+Seasonally Adjusted Turnover ($m),vintage_clothing,6,-0.5512336197887717
+Seasonally Adjusted Turnover ($m),vintage_clothing,7,-0.5565464633634177
+Seasonally Adjusted Turnover ($m),vintage_clothing,8,-0.5570518766667445
+Seasonally Adjusted Turnover ($m),vintage_clothing,9,-0.5499619239207663
+Seasonally Adjusted Turnover ($m),vintage_clothing,10,-0.570155221427695
+Seasonally Adjusted Turnover ($m),vintage_clothing,11,-0.5730406094862618
+Seasonally Adjusted Turnover ($m),vintage_clothing,12,-0.5697249376826217
+Seasonally Adjusted Turnover ($m),vintage_clothing,13,-0.5764818365517728
+Seasonally Adjusted Turnover ($m),vintage_clothing,14,-0.5681980306151927
+Seasonally Adjusted Turnover ($m),vintage_clothing,15,-0.5559521902529739
+Seasonally Adjusted Turnover ($m),vintage_clothing,16,-0.5444726995927643
+Seasonally Adjusted Turnover ($m),vintage_clothing,17,-0.5417919489721333
+Seasonally Adjusted Turnover ($m),vintage_clothing,18,-0.528046721295907
+Seasonally Adjusted Turnover ($m),vintage_clothing,19,-0.5336188280281321
+Seasonally Adjusted Turnover ($m),vintage_clothing,20,-0.5270133732749526
+Seasonally Adjusted Turnover ($m),vintage_clothing,21,-0.521077546162428
+Seasonally Adjusted Turnover ($m),vintage_clothing,22,-0.5350387779149317
+Seasonally Adjusted Turnover ($m),vintage_clothing,23,-0.5193429755709418
+Seasonally Adjusted Turnover ($m),vintage_clothing,24,-0.5214163815562023
+Seasonally Adjusted Turnover ($m),vintage_clothing,25,-0.5367780782521526
+Seasonally Adjusted Turnover ($m),vintage_clothing,26,-0.5310476921656339
+Seasonally Adjusted Turnover ($m),vintage_clothing,27,-0.5341891540438658
+Seasonally Adjusted Turnover ($m),vintage_clothing,28,-0.5348023192287753
+Seasonally Adjusted Turnover ($m),vintage_clothing,29,-0.5291816753006079
+Seasonally Adjusted Turnover ($m),vintage_clothing,30,-0.5240327579691263
+Seasonally Adjusted Turnover ($m),vintage_clothing,31,-0.5272177559803559
+Seasonally Adjusted Turnover ($m),vintage_clothing,32,-0.5232597566274085
+Seasonally Adjusted Turnover ($m),vintage_clothing,33,-0.5279321028407313
+Seasonally Adjusted Turnover ($m),vintage_clothing,34,-0.5480987854582117
+Seasonally Adjusted Turnover ($m),vintage_clothing,35,-0.5541237705045748
+Seasonally Adjusted Turnover ($m),vintage_clothing,36,-0.5680260365798966
+Seasonally Adjusted Turnover ($m),vintage_clothing,37,-0.5886342129150857
+Seasonally Adjusted Turnover ($m),vintage_clothing,38,-0.5759821300950437
+Seasonally Adjusted Turnover ($m),vintage_clothing,39,-0.5819259197102774
+Seasonally Adjusted Turnover ($m),vintage_clothing,40,-0.5890448585379925
+Seasonally Adjusted Turnover ($m),vintage_clothing,41,-0.591921500221482
+Seasonally Adjusted Turnover ($m),vintage_clothing,42,-0.6116828779035249
+Seasonally Adjusted Turnover ($m),vintage_clothing,43,-0.6162445292704319
+Seasonally Adjusted Turnover ($m),vintage_clothing,44,-0.6338099502892117
+Seasonally Adjusted Turnover ($m),vintage_clothing,45,-0.6369925232026509
+Seasonally Adjusted Turnover ($m),vintage_clothing,46,-0.6570130934147
+Seasonally Adjusted Turnover ($m),vintage_clothing,47,-0.6748721800306647
+Seasonally Adjusted Turnover ($m),vintage_clothing,48,-0.7018058409774786
+Seasonally Adjusted Turnover ($m),short_skirts,0,-0.7291221833654412
+Seasonally Adjusted Turnover ($m),short_skirts,1,-0.7404972534209356
+Seasonally Adjusted Turnover ($m),short_skirts,2,-0.7500357776070785
+Seasonally Adjusted Turnover ($m),short_skirts,3,-0.7679044583600149
+Seasonally Adjusted Turnover ($m),short_skirts,4,-0.7851418389011332
+Seasonally Adjusted Turnover ($m),short_skirts,5,-0.7863899128153008
+Seasonally Adjusted Turnover ($m),short_skirts,6,-0.794126026890103
+Seasonally Adjusted Turnover ($m),short_skirts,7,-0.7996103129955767
+Seasonally Adjusted Turnover ($m),short_skirts,8,-0.7881417763898935
+Seasonally Adjusted Turnover ($m),short_skirts,9,-0.7880307314805558
+Seasonally Adjusted Turnover ($m),short_skirts,10,-0.786901767294898
+Seasonally Adjusted Turnover ($m),short_skirts,11,-0.8168799622723111
+Seasonally Adjusted Turnover ($m),short_skirts,12,-0.8108537182896216
+Seasonally Adjusted Turnover ($m),short_skirts,13,-0.8166096562118148
+Seasonally Adjusted Turnover ($m),short_skirts,14,-0.821860780471447
+Seasonally Adjusted Turnover ($m),short_skirts,15,-0.8214377829031687
+Seasonally Adjusted Turnover ($m),short_skirts,16,-0.8415594348772277
+Seasonally Adjusted Turnover ($m),short_skirts,17,-0.838347754005708
+Seasonally Adjusted Turnover ($m),short_skirts,18,-0.839347347404542
+Seasonally Adjusted Turnover ($m),short_skirts,19,-0.8391465266149706
+Seasonally Adjusted Turnover ($m),short_skirts,20,-0.8424553750399109
+Seasonally Adjusted Turnover ($m),short_skirts,21,-0.8554837120501508
+Seasonally Adjusted Turnover ($m),short_skirts,22,-0.8596221032027866
+Seasonally Adjusted Turnover ($m),short_skirts,23,-0.8618128413545519
+Seasonally Adjusted Turnover ($m),short_skirts,24,-0.860411286536322
+Seasonally Adjusted Turnover ($m),short_skirts,25,-0.8529704672747688
+Seasonally Adjusted Turnover ($m),short_skirts,26,-0.86200262640887
+Seasonally Adjusted Turnover ($m),short_skirts,27,-0.857995116283499
+Seasonally Adjusted Turnover ($m),short_skirts,28,-0.8673782957611247
+Seasonally Adjusted Turnover ($m),short_skirts,29,-0.8679783244250288
+Seasonally Adjusted Turnover ($m),short_skirts,30,-0.8787176043773605
+Seasonally Adjusted Turnover ($m),short_skirts,31,-0.8897470555476876
+Seasonally Adjusted Turnover ($m),short_skirts,32,-0.885326114804322
+Seasonally Adjusted Turnover ($m),short_skirts,33,-0.8955408698099161
+Seasonally Adjusted Turnover ($m),short_skirts,34,-0.8715816944858078
+Seasonally Adjusted Turnover ($m),short_skirts,35,-0.8708071177331285
+Seasonally Adjusted Turnover ($m),short_skirts,36,-0.8678406059361421
+Seasonally Adjusted Turnover ($m),short_skirts,37,-0.8516433910808696
+Seasonally Adjusted Turnover ($m),short_skirts,38,-0.8622974128795775
+Seasonally Adjusted Turnover ($m),short_skirts,39,-0.8623765457116026
+Seasonally Adjusted Turnover ($m),short_skirts,40,-0.8673713546739835
+Seasonally Adjusted Turnover ($m),short_skirts,41,-0.8605012360059626
+Seasonally Adjusted Turnover ($m),short_skirts,42,-0.8561509181047318
+Seasonally Adjusted Turnover ($m),short_skirts,43,-0.8502953656995933
+Seasonally Adjusted Turnover ($m),short_skirts,44,-0.846729257352669
+Seasonally Adjusted Turnover ($m),short_skirts,45,-0.8494101256192673
+Seasonally Adjusted Turnover ($m),short_skirts,46,-0.8288508342493367
+Seasonally Adjusted Turnover ($m),short_skirts,47,-0.8273883082500403
+Seasonally Adjusted Turnover ($m),short_skirts,48,-0.8320361395500884
+Seasonally Adjusted Turnover ($m),mini_skirts,0,0.14225570876561655
+Seasonally Adjusted Turnover ($m),mini_skirts,1,0.14523827542991227
+Seasonally Adjusted Turnover ($m),mini_skirts,2,0.10845983591164537
+Seasonally Adjusted Turnover ($m),mini_skirts,3,0.049838299888832906
+Seasonally Adjusted Turnover ($m),mini_skirts,4,0.005412980140521734
+Seasonally Adjusted Turnover ($m),mini_skirts,5,-0.03179203288646871
+Seasonally Adjusted Turnover ($m),mini_skirts,6,-0.03797989544539517
+Seasonally Adjusted Turnover ($m),mini_skirts,7,-0.05394479270526004
+Seasonally Adjusted Turnover ($m),mini_skirts,8,-0.045765459532422496
+Seasonally Adjusted Turnover ($m),mini_skirts,9,-0.06960637683517559
+Seasonally Adjusted Turnover ($m),mini_skirts,10,-0.05843675401933798
+Seasonally Adjusted Turnover ($m),mini_skirts,11,-0.09585214628826347
+Seasonally Adjusted Turnover ($m),mini_skirts,12,-0.11526921711213725
+Seasonally Adjusted Turnover ($m),mini_skirts,13,-0.1249217067644698
+Seasonally Adjusted Turnover ($m),mini_skirts,14,-0.18146533701955533
+Seasonally Adjusted Turnover ($m),mini_skirts,15,-0.20729766632906188
+Seasonally Adjusted Turnover ($m),mini_skirts,16,-0.23029411284581422
+Seasonally Adjusted Turnover ($m),mini_skirts,17,-0.22640774898954005
+Seasonally Adjusted Turnover ($m),mini_skirts,18,-0.23589632716672596
+Seasonally Adjusted Turnover ($m),mini_skirts,19,-0.26342482204979084
+Seasonally Adjusted Turnover ($m),mini_skirts,20,-0.2645463871070157
+Seasonally Adjusted Turnover ($m),mini_skirts,21,-0.2606679195279071
+Seasonally Adjusted Turnover ($m),mini_skirts,22,-0.27191690080957787
+Seasonally Adjusted Turnover ($m),mini_skirts,23,-0.2951390121967745
+Seasonally Adjusted Turnover ($m),mini_skirts,24,-0.3017026880651069
+Seasonally Adjusted Turnover ($m),mini_skirts,25,-0.31494001701082946
+Seasonally Adjusted Turnover ($m),mini_skirts,26,-0.32957208068544386
+Seasonally Adjusted Turnover ($m),mini_skirts,27,-0.33498327897153596
+Seasonally Adjusted Turnover ($m),mini_skirts,28,-0.38773426378663384
+Seasonally Adjusted Turnover ($m),mini_skirts,29,-0.3960583196185713
+Seasonally Adjusted Turnover ($m),mini_skirts,30,-0.40713110467724395
+Seasonally Adjusted Turnover ($m),mini_skirts,31,-0.41450516316572494
+Seasonally Adjusted Turnover ($m),mini_skirts,32,-0.40926561374162534
+Seasonally Adjusted Turnover ($m),mini_skirts,33,-0.4424516922782604
+Seasonally Adjusted Turnover ($m),mini_skirts,34,-0.4462416563406374
+Seasonally Adjusted Turnover ($m),mini_skirts,35,-0.4242200516854881
+Seasonally Adjusted Turnover ($m),mini_skirts,36,-0.42891644990901695
+Seasonally Adjusted Turnover ($m),mini_skirts,37,-0.4589128602452267
+Seasonally Adjusted Turnover ($m),mini_skirts,38,-0.4515377058377806
+Seasonally Adjusted Turnover ($m),mini_skirts,39,-0.4797695767651983
+Seasonally Adjusted Turnover ($m),mini_skirts,40,-0.47739845744923576
+Seasonally Adjusted Turnover ($m),mini_skirts,41,-0.4762404926433752
+Seasonally Adjusted Turnover ($m),mini_skirts,42,-0.48365511221085106
+Seasonally Adjusted Turnover ($m),mini_skirts,43,-0.48516477070175895
+Seasonally Adjusted Turnover ($m),mini_skirts,44,-0.46929573681080783
+Seasonally Adjusted Turnover ($m),mini_skirts,45,-0.473639599944768
+Seasonally Adjusted Turnover ($m),mini_skirts,46,-0.49147862330963
+Seasonally Adjusted Turnover ($m),mini_skirts,47,-0.4833441093706724
+Seasonally Adjusted Turnover ($m),mini_skirts,48,-0.47494207729062604
+Seasonally Adjusted Turnover ($m),fast_fashion,0,0.7804354365736166
+Seasonally Adjusted Turnover ($m),fast_fashion,1,0.7990386698172746
+Seasonally Adjusted Turnover ($m),fast_fashion,2,0.8045670244143234
+Seasonally Adjusted Turnover ($m),fast_fashion,3,0.7945252542481613
+Seasonally Adjusted Turnover ($m),fast_fashion,4,0.8007100707460635
+Seasonally Adjusted Turnover ($m),fast_fashion,5,0.7986756640874069
+Seasonally Adjusted Turnover ($m),fast_fashion,6,0.7901993075861803
+Seasonally Adjusted Turnover ($m),fast_fashion,7,0.7950716030795566
+Seasonally Adjusted Turnover ($m),fast_fashion,8,0.7947453222381416
+Seasonally Adjusted Turnover ($m),fast_fashion,9,0.782198469150596
+Seasonally Adjusted Turnover ($m),fast_fashion,10,0.7712098549642369
+Seasonally Adjusted Turnover ($m),fast_fashion,11,0.7669296553965959
+Seasonally Adjusted Turnover ($m),fast_fashion,12,0.7732323200121837
+Seasonally Adjusted Turnover ($m),fast_fashion,13,0.7798945859803054
+Seasonally Adjusted Turnover ($m),fast_fashion,14,0.7831608410276019
+Seasonally Adjusted Turnover ($m),fast_fashion,15,0.7746538169622853
+Seasonally Adjusted Turnover ($m),fast_fashion,16,0.7691887989556819
+Seasonally Adjusted Turnover ($m),fast_fashion,17,0.7745301413459966
+Seasonally Adjusted Turnover ($m),fast_fashion,18,0.7667882032370092
+Seasonally Adjusted Turnover ($m),fast_fashion,19,0.7674825795495932
+Seasonally Adjusted Turnover ($m),fast_fashion,20,0.7633928480716966
+Seasonally Adjusted Turnover ($m),fast_fashion,21,0.7504920609480493
+Seasonally Adjusted Turnover ($m),fast_fashion,22,0.7460366437577719
+Seasonally Adjusted Turnover ($m),fast_fashion,23,0.7392495672832183
+Seasonally Adjusted Turnover ($m),fast_fashion,24,0.7409552600043793
+Seasonally Adjusted Turnover ($m),fast_fashion,25,0.7389249076948424
+Seasonally Adjusted Turnover ($m),fast_fashion,26,0.7398608001909199
+Seasonally Adjusted Turnover ($m),fast_fashion,27,0.7396337502864119
+Seasonally Adjusted Turnover ($m),fast_fashion,28,0.7303904237974431
+Seasonally Adjusted Turnover ($m),fast_fashion,29,0.7371400406626787
+Seasonally Adjusted Turnover ($m),fast_fashion,30,0.7276424248879252
+Seasonally Adjusted Turnover ($m),fast_fashion,31,0.7312329871312433
+Seasonally Adjusted Turnover ($m),fast_fashion,32,0.7488446707532024
+Seasonally Adjusted Turnover ($m),fast_fashion,33,0.741754728997235
+Seasonally Adjusted Turnover ($m),fast_fashion,34,0.7364978856753692
+Seasonally Adjusted Turnover ($m),fast_fashion,35,0.7252527563579196
+Seasonally Adjusted Turnover ($m),fast_fashion,36,0.7243879525287282
+Seasonally Adjusted Turnover ($m),fast_fashion,37,0.7205215743030454
+Seasonally Adjusted Turnover ($m),fast_fashion,38,0.7272154164734297
+Seasonally Adjusted Turnover ($m),fast_fashion,39,0.716182811047987
+Seasonally Adjusted Turnover ($m),fast_fashion,40,0.6977345658099662
+Seasonally Adjusted Turnover ($m),fast_fashion,41,0.7027604982849037
+Seasonally Adjusted Turnover ($m),fast_fashion,42,0.6914738434807756
+Seasonally Adjusted Turnover ($m),fast_fashion,43,0.6849216274834441
+Seasonally Adjusted Turnover ($m),fast_fashion,44,0.6939385141470877
+Seasonally Adjusted Turnover ($m),fast_fashion,45,0.6754915234124366
+Seasonally Adjusted Turnover ($m),fast_fashion,46,0.6520811633188818
+Seasonally Adjusted Turnover ($m),fast_fashion,47,0.6479970680373118
+Seasonally Adjusted Turnover ($m),fast_fashion,48,0.6500238651008904
+Seasonally Adjusted Turnover ($m),statement_pieces,0,0.10967533638830398
+Seasonally Adjusted Turnover ($m),statement_pieces,1,0.10880966376698073
+Seasonally Adjusted Turnover ($m),statement_pieces,2,0.06197802242549585
+Seasonally Adjusted Turnover ($m),statement_pieces,3,0.06403088426718134
+Seasonally Adjusted Turnover ($m),statement_pieces,4,0.1438615372621294
+Seasonally Adjusted Turnover ($m),statement_pieces,5,0.14293154479865522
+Seasonally Adjusted Turnover ($m),statement_pieces,6,0.14101074932594587
+Seasonally Adjusted Turnover ($m),statement_pieces,7,0.13990408583814126
+Seasonally Adjusted Turnover ($m),statement_pieces,8,0.060506549566442094
+Seasonally Adjusted Turnover ($m),statement_pieces,9,0.14582489305038296
+Seasonally Adjusted Turnover ($m),statement_pieces,10,0.1491018566623808
+Seasonally Adjusted Turnover ($m),statement_pieces,11,0.10547139556064866
+Seasonally Adjusted Turnover ($m),statement_pieces,12,0.10635394785636752
+Seasonally Adjusted Turnover ($m),statement_pieces,13,0.10726697931034154
+Seasonally Adjusted Turnover ($m),statement_pieces,14,0.10871345768097054
+Seasonally Adjusted Turnover ($m),statement_pieces,15,0.10962784398167298
+Seasonally Adjusted Turnover ($m),statement_pieces,16,0.11022470180425287
+Seasonally Adjusted Turnover ($m),statement_pieces,17,0.11090509320016573
+Seasonally Adjusted Turnover ($m),statement_pieces,18,0.11257934979888565
+Seasonally Adjusted Turnover ($m),statement_pieces,19,0.11218237692152688
+Seasonally Adjusted Turnover ($m),statement_pieces,20,0.1124988521428954
+Seasonally Adjusted Turnover ($m),statement_pieces,21,0.12020991385285555
+Seasonally Adjusted Turnover ($m),statement_pieces,22,0.10107720246309339
+Seasonally Adjusted Turnover ($m),statement_pieces,23,0.11486089730387444
+Seasonally Adjusted Turnover ($m),statement_pieces,24,0.11869858313970663
+Seasonally Adjusted Turnover ($m),statement_pieces,25,0.12277185764499284
+Seasonally Adjusted Turnover ($m),statement_pieces,26,0.11787075385484612
+Seasonally Adjusted Turnover ($m),statement_pieces,27,0.11604648360905477
+Seasonally Adjusted Turnover ($m),statement_pieces,28,0.11820235158354347
+Seasonally Adjusted Turnover ($m),statement_pieces,29,0.12234553343192017
+Seasonally Adjusted Turnover ($m),statement_pieces,30,0.12149312171475492
+Seasonally Adjusted Turnover ($m),statement_pieces,31,0.12088541650785231
+Seasonally Adjusted Turnover ($m),statement_pieces,32,0.12003319781052567
+Seasonally Adjusted Turnover ($m),statement_pieces,33,0.11992032700447255
+Seasonally Adjusted Turnover ($m),statement_pieces,34,0.12225537478490481
+Seasonally Adjusted Turnover ($m),statement_pieces,35,0.11986981675986445
+Seasonally Adjusted Turnover ($m),statement_pieces,36,0.11899915700641248
+Seasonally Adjusted Turnover ($m),statement_pieces,37,0.11625789589951135
+Seasonally Adjusted Turnover ($m),statement_pieces,38,0.11313352961860108
+Seasonally Adjusted Turnover ($m),statement_pieces,39,0.11527883390730244
+Seasonally Adjusted Turnover ($m),statement_pieces,40,0.12175309236044507
+Seasonally Adjusted Turnover ($m),statement_pieces,41,0.12723705116462072
+Seasonally Adjusted Turnover ($m),statement_pieces,42,0.12615464900529974
+Seasonally Adjusted Turnover ($m),statement_pieces,43,0.12778397548144732
+Seasonally Adjusted Turnover ($m),statement_pieces,44,0.12913700102197523
+Seasonally Adjusted Turnover ($m),statement_pieces,45,0.13101783626667107
+Seasonally Adjusted Turnover ($m),statement_pieces,46,0.13286184811298574
+Seasonally Adjusted Turnover ($m),statement_pieces,47,0.13294640259999968
+Seasonally Adjusted Turnover ($m),statement_pieces,48,0.08784507330155858

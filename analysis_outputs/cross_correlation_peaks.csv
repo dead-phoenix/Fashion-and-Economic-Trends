@@ -1,0 +1,37 @@
+Economic_Variable,Fashion_Trend,Lag_Months,Cross_Correlation
+CPI_Index,capsule_wardrobe,3,0.8854907393079855
+CPI_Index,fast_fashion,13,0.8692110635805645
+CPI_Index,luxury,2,0.7781788444439781
+CPI_Index,mini_skirts,48,-0.3394317502030801
+CPI_Index,minimalist_fashion,20,0.13065702218539246
+CPI_Index,quiet_luxury,0,0.7048581594600831
+CPI_Index,second_hand_clothing,33,-0.37942932892844594
+CPI_Index,short_skirts,28,-0.8523596915252744
+CPI_Index,statement_pieces,1,0.17627888913906906
+CPI_Index,thrift_store,0,0.8281057455552687
+CPI_Index,timeless_basics,39,-0.01767675076440287
+CPI_Index,vintage_clothing,0,-0.7800074063877114
+Seasonally Adjusted Turnover ($m),capsule_wardrobe,48,0.8901960843231844
+Seasonally Adjusted Turnover ($m),fast_fashion,2,0.8045670244143234
+Seasonally Adjusted Turnover ($m),luxury,45,0.8321527892980938
+Seasonally Adjusted Turnover ($m),mini_skirts,46,-0.49147862330963
+Seasonally Adjusted Turnover ($m),minimalist_fashion,47,0.2519918911693967
+Seasonally Adjusted Turnover ($m),quiet_luxury,0,0.4935277110417313
+Seasonally Adjusted Turnover ($m),second_hand_clothing,1,-0.3297585204939369
+Seasonally Adjusted Turnover ($m),short_skirts,33,-0.8955408698099161
+Seasonally Adjusted Turnover ($m),statement_pieces,10,0.1491018566623808
+Seasonally Adjusted Turnover ($m),thrift_store,6,0.8238710833959874
+Seasonally Adjusted Turnover ($m),timeless_basics,21,-0.07432860611146515
+Seasonally Adjusted Turnover ($m),vintage_clothing,48,-0.7018058409774786
+Unemployment Rate (%),capsule_wardrobe,47,-0.5547817764436849
+Unemployment Rate (%),fast_fashion,48,-0.686842002311393
+Unemployment Rate (%),luxury,44,-0.5951412020140203
+Unemployment Rate (%),mini_skirts,48,0.2394744043903673
+Unemployment Rate (%),minimalist_fashion,17,-0.07558820392050501
+Unemployment Rate (%),quiet_luxury,0,-0.5497560751363971
+Unemployment Rate (%),second_hand_clothing,27,0.37956398381317774
+Unemployment Rate (%),short_skirts,32,0.6238068224270181
+Unemployment Rate (%),statement_pieces,46,-0.16277121241493567
+Unemployment Rate (%),thrift_store,44,-0.6388884346645326
+Unemployment Rate (%),timeless_basics,38,0.20009895451736737
+Unemployment Rate (%),vintage_clothing,39,0.5009959869363487
